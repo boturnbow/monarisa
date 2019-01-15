@@ -1,11 +1,6 @@
 ---
 layout: post
 title:  "Every Boat Story Is a Drama"
-author: Bo
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+And this boat story has all the elements: hopes, long travels, chicanery, desperation, and (hopefully) triumph.
