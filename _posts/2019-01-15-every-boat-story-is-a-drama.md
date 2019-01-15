@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "Every Boat Story Is a Drama"
+author: Bo
 ---
 
 # Welcome
