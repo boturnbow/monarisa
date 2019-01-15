@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Every Boat Story Is a Drama"
 ---
 
