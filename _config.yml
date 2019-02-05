@@ -1,15 +1,19 @@
 title: Mona Risa
-description: 'Wharram Tiki 21 #924'
-
 author: Bo Turnbow
 email: bo@turnbows.org
+description: >
+  Wharram Tiki 21 #924
 
-theme: minima
+show_excerpts: true
+
+minima:
+  # generate social links in footer
+  social_links:
+    github: boturnbow
+    facebook: bo.turnbow
+    rss: rss
 
 header_pages:
   - about.md
 
-minima:
-  social_links:
-    github: boturnbow
-    facebook: bo.turnbow
+theme: minima
