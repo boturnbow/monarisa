@@ -10,7 +10,9 @@ In Bobcaygeon, I met Jerry and his wife. Jerry was busy building another catamar
 As promised, Jerry had made sure that the trailer was ready for a long haul. The trailer tires and spare were new and he had repacked the wheel bearings. I had hoped to spend some time talking about the boat, but Jerry was busy. So I loaded and was on my way after handling paperwork. The most exciting part of the drive home was catching the ferry across Georgian Bay - from Tobermory to Manitoulin Island. The trip was gorgeous and it was funny to me to have my boat **on** a boat!
 
 ![Boat On a Boat](/assets/images/boatonboat.jpg)
+
 ![Ferry Ride](/assets/images/ferry.jpg)
+
 ![Made It Home](/assets/images/home.jpg)
 
 Once home I was anxious to launch the boat, especially since for the first time ever I had rented a slip to keep the boat in. My neighbor and sailor, Rich, volunteered to help with the first assembly and launch. We spent a few hours at the ramp at Magpie Bay and had the boat in the water. I motored over to the slip at Kim's Marina and tied her up. I wanted to take her for a sail but I wasn't comfortable with the boat after assembly.
