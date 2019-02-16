@@ -3,6 +3,8 @@ layout: post
 title:  "Rebuilding Platforms"
 ---
 
+*Build Date: August 2017*
+
 In January, 2017 I "retired" from computer work. My plan was to get my house ready to sell or rent and then spend the summer on the boat. Of course, work on the house took longer than I thought and I hadn't finished house work until August. Where does summer go?!
 
 Part of my delay in working on the platforms in 2016 was finding a source for marine plywood. After a lot of searching, I found that our local lumber yard, Power Townsend,  could order Douglas Fir marine plywood from a supplier in Spokane. And it would be delivered to Helena in a week for no charge. Wow! And the price was great, too - $47 for 1/4" plywood. Compared to $200/sheet to have plywod delivered from the Seattle area.
