@@ -5,6 +5,7 @@ description: >
   Welcome to a blog for Mona Risa - Wharram Tiki 21 #924. Telling the story of a full rebuild and, hopefully, the further adventures.
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 minima:
   # generate social links in footer

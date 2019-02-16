@@ -7,6 +7,8 @@ title:  "Rebuilding Platforms"
 
 In January, 2017 I "retired" from computer work. My plan was to get my house ready to sell or rent and then spend the summer on the boat. Of course, work on the house took longer than I thought and I hadn't finished house work until August. Where does summer go?!
 
+<!--more-->
+
 Part of my delay in working on the platforms in 2016 was finding a source for marine plywood. After a lot of searching, I found that our local lumber yard, Power Townsend,  could order Douglas Fir marine plywood from a supplier in Spokane. And it would be delivered to Helena in a week for no charge. Wow! And the price was great, too - $47 for 1/4" plywood. Compared to $200/sheet to have plywod delivered from the Seattle area.
 
 I built the center and side platforms according to the plans but I substituted 3/8" plywood for the top of the center plafform instead of 1/4". After the previous center platform had collapsed I decided to overbuild it a little. I fitted my outboard motor as I went which resulted in cutting the transom a little lower. I also wrapped the transom in a piece of aluminum sheet to take the abuse from clamping the motor on.
