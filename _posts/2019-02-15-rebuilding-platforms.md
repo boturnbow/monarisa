@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rebuilding Platforms"
+excerpt_separator: <!--more-->
 ---
 
 *Build Date: August 2017*

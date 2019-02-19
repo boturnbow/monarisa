@@ -5,8 +5,6 @@ title:  "Every Boat Story Is a Drama"
 
 This boat story has all the elements of a drama: high hopes, chicanery, desperation, and triumph (hopefully). This is the story of falling in love with a boat design, finding that boat in Canada, bringing it home to watch it fall apart before rebuilding it in the USA. This is the story of a boat named Mona Risa.
 
-<!--more-->
-
 This initial post will try to summarize the story in one place and leave the details to other posts. But, even as I write this, the story isn't over yet! I'm writing this in Jan 2019 while wintering in Ghana. Mona Risa is in a garage in Montana waiting to be finished. The end of this boat drama has not been written yet.
 
 ## Finding the Right Boat Design
