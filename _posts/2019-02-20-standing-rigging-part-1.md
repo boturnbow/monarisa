@@ -15,12 +15,12 @@ I had noticed several Wharram people replacing wire-rope rigging with Dyneema an
 * Dyneema of the same size is far stronger than wire rope.
 * Stretch characteristics are different. So Dyneema should be sized according to stretch not strength when replacing wire rope.
 * Minimal "creep" will occur over the life of the line.
-* "Construction stretch" will occur after splicing and should be removed by loading up the lines after splicing. You also need to account for the stretch and make the line shorter than the size required.
+* "Construction stretch" will occur after splicing and should be removed by loading up the lines after splicing. You also need to account for the stretch and make the line shorter than the size required when making the splices.
 * Dyneema can crush a thimble under load so use closed thimbles or sailmakers thimbles.
 * Dyneema needs needs curves with a radius 5 times the line diameter to maintain strength.
 * Predicted life span is 5-10 years.
 
-I priced the materials out (~$150) and decided to give Dyneema for my rigging. I liked the idea of having something that would be easier to coil and store than wire rope when I was transporting the boat. I also liked being able to do the splices myself instead of needing a rigging shop.
+I priced the materials out (~$150) and decided to try Dyneema for my rigging. I liked the idea of having something that would be easier to coil and store than wire rope when I was transporting the boat. I also liked being able to do the splices myself instead of needing a rigging shop - good for repairs!
 
 The original wire specs for the Tiki 21 (breaking load) were:
 
