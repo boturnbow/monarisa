@@ -22,4 +22,4 @@ I plan to add an extension to the tiller bar at some point. And add some shock c
 
 ![Tillers](/assets/images/tillersdetail2.jpg)
 
-**Update:** I will end up rebuilding the tillers to fit the new rudders which do not have a triple thickness of plywood at the top.
+**Note:** After I build the new hulls, I will end up rebuilding the tillers to fit the new rudders. The new rudders do not have a triple thickness of plywood at the top.
