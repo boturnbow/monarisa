@@ -14,6 +14,8 @@ The end of the tiller that locks onto the rudder head is not built according to 
 
 I plan to add an extension to the tiller bar at some point. And add some shock cord to hold the tiller amidships.
 
+![Rudder Heads](/assets/images/rudderheads.jpg)
+
 ![Bending Tillers](/assets/images/bendingtillers.jpg)
 
 ![Tillers](/assets/images/tillers.jpg)
