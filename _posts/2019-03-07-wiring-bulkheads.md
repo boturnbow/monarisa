@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wiring the First Hull Together"
+title:  "Wiring the Bulkheads In"
 excerpt_separator: <!--more-->
 ---
 
