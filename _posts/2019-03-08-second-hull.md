@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 *Build Date: July 2018*
 
-After a break for summer fun, I got back to work on the second hull. I glued the hull sides, added sheerstringers, coated the hullsides and bulkheads, and wired all together. It so fast that I hardly took any pictures!
+After a break for summer fun, I got back to work on the second hull. I glued the hull sides, added sheerstringers, coated the hullsides and bulkheads, and wired all together. It went so fast that I hardly took any pictures!
 
 <!--more-->
 
