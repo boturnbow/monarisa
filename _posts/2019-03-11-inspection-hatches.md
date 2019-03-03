@@ -10,7 +10,9 @@ I stole an idea from Rod's Mana 24 and built my own inspection hatch covers for 
 
 <!--more-->
 
-![Gaskets from Bicycle Tubes](/assets/images/inspection-gaskets.jpg)
+![Gaskets from Bicycle Tubes](/assets/images/inspection-gasket-1.jpg)
+
+![Gaskets from Bicycle Tubes](/assets/images/inspection-gasket-2.jpg)
 
 ![Inner Side of Cover](/assets/images/inspection-inner-1.jpg)
 
