@@ -45,3 +45,5 @@ And this is the point in the story where the real drama begins - and keeps going
 In short, the boat was poorly built and began falling apart right away. I started rebuilding pieces and parts of the boat. But eventually decided to rebuild the **entire boat** as well as the trailer. So the boat that I bought at the end of 2015 did not sail in the 2016, 2017 or 2018 seasons. Frustration!
 
 The next post will cover picking up the boat and the initial problems that occurred.
+
+**[>> Next Post]({% post_url 2019-01-28-the-journey-and-the-launch %})**
