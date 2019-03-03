@@ -16,7 +16,7 @@ My first fillet in the bow of the port hull was a total disaster. The Wharram pl
 
 ![Fillet Disaster!](/assets/images/fillets-poor.jpg)
 
-So I turned to the internet and my [favorite boat building book by Sam Devlin](www.amazon.com/Devlins-Boatbuilding-Build-Stitch-Glue/dp/0071579907/ref=sr_1_1) for ideas. I couldn't find other fillet mixture recipes that called for such a high proportion of glass bubbles. My tried and true mixture from previous builds was 1:1 colloidal silica and wood flour. Since I had stocked up on glass bubbles for this build (following the Wharram recipe) I wanted to use up some these bubbles. So I added the glass bubbles to the mixture and found that a 1:1:1 mix worked very well.
+So I turned to the internet and my [favorite boat building book by Sam Devlin](www.amazon.com/Devlins-Boatbuilding-Build-Stitch-Glue/dp/0071579907/ref=sr_1_1) for ideas. I couldn't find other fillet mixture recipes that called for such a high proportion of glass bubbles. My tried and true mixture from previous builds was 1:1 colloidal silica and wood flour. Since I had stocked up on glass bubbles for this build (following the Wharram recipe) I wanted to use up some of these bubbles. So I added the glass bubbles to the mixture and found that a 1:1:1 mix worked very well.
 
 ![Devlin Book](/assets/images/fillets-book.jpg)
 
@@ -24,6 +24,6 @@ Devlin's book also reminded me that I liked to apply fiberglass tape while the f
 
 ![Aligning the Hulls](/assets/images/fillets-tape.jpg)
 
-Once happy with my filleting mix, I went a smoother fillet over the port bow fillet and added biaxial fiberglass tape to the wet mix. And then brushed epoxy on until it was saturated. I decided to use biaxial tape for the keels for extra strength. Biaxial tape takes a lot more epoxy to fill in the weave and is harder to get a smooth surface so it was a trade-off. I only used biaxial on the keels - inside and out - and used regular cloth tape for the bulkheads and bunks and cabins.
+Once happy with my filleting mix, I went back and put a smoother fillet over the port bow fillet and added biaxial fiberglass tape to the wet mix. And then brushed epoxy on until it was saturated. I decided to use biaxial tape for the keels for extra strength. Biaxial tape takes a lot more epoxy to fill in the weave and is harder to get a smooth surface so it was a trade-off. I only used biaxial on the keels - inside and out - and used regular cloth tape for the bulkheads and bunks and cabins.
 
 ![Aligning the Hulls](/assets/images/fillets-done.jpg)
