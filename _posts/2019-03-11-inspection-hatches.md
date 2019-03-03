@@ -21,3 +21,5 @@ I stole an idea from Rod's Mana 24 and built my own inspection hatch covers for 
 ![Outer Side of Cover](/assets/images/inspection-outer.jpg)
 
 ![Inside of Stern Cover When Installed](/assets/images/inspection-installed.jpg)
+
+**[>> Next Post]({% post_url 2019-03-12-hull-fillets %})**

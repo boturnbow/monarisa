@@ -23,3 +23,5 @@ With the hulls together, the next step was adding diagonal stiffeners and backin
 ![More Stiffeners](/assets/images/diagonal-center-1.jpg)
 
 ![More Stiffeners](/assets/images/diagonal-center-2.jpg)
+
+**[>> Next Post]({% post_url 2019-03-10-canada-sailing %})**

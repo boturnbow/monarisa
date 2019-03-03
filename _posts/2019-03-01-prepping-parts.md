@@ -23,3 +23,5 @@ I had a burst of enthusiasm after making the decision to rebuild the hulls. So I
 ![Scarf on Sheerstringer](/assets/images/prep-scarf.jpg)
 
 ![Step Scarf on Keel](/assets/images/prep-step-scarf.jpg)
+
+**[>> Next Post]({% post_url 2019-03-02-cutting-hull %})**

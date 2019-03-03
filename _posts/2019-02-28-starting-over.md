@@ -40,3 +40,5 @@ First, I disposed of the hulls online. The gentleman who wanted the hulls said h
 And then I ordered a pile of marine plywood and a lot more Raka epoxy!
 
 ![A Fresh Pile of Plywood](/assets/images/new-start.jpg)
+
+**[>> Next Post]({% post_url 2019-03-01-prepping-parts %})**

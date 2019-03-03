@@ -29,3 +29,5 @@ After all the fillets were done, I lightly sanded and cleaned the bilges and loc
 ![Painted Bilges](/assets/images/fillets-2-paint-3.jpg)
 
 ![Painted Bilges](/assets/images/fillets-2-paint-4.jpg)
+
+**[>> Next Post]({% post_url 2019-03-14-bunks %})**
