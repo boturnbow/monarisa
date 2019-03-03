@@ -22,7 +22,7 @@ The building plans give explicit instructions on wiring the hulls together. I de
 
 ![Wiring Along the Keel](/assets/images/wiring-2.jpg)
 
-![Stern Is Not Wired Until Later](/assets/images/wiring-stern2.jpg)
+![Stern Is Not Wired Until Later](/assets/images/wiring-stern-2.jpg)
 
 ![Looks Like a Boat!](/assets/images/wiring-done-1.jpg)
 
