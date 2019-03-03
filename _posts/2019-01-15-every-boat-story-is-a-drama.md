@@ -46,4 +46,4 @@ In short, the boat was poorly built and began falling apart right away. I starte
 
 The next post will cover picking up the boat and the initial problems that occurred.
 
-**[>> Next Post]({% post_url 2019-01-28-the-journey-and-the-launch %})**
+**[>> Next Post]({% post_url 2019-01-28-the-journey-and-launch %})**
