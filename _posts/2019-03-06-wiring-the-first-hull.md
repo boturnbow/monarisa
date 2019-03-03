@@ -28,4 +28,4 @@ The building plans give explicit instructions on wiring the hulls together. I de
 
 ![Happy Builder](/assets/images/wiring-done-2.jpg)
 
-**[Next Post]({% post_url 2019-03-07-wiring-bulkheads %})**
+**[>> Next Post]({% post_url 2019-03-07-wiring-bulkheads %})**

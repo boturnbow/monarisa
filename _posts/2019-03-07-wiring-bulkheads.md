@@ -30,4 +30,4 @@ The building plans give a specific order for wiring in the bulkheads. I followed
 
 ![All Bulkheads Wired In](/assets/images/wiring2-done.jpg)
 
-**[Next Post]({% post_url 2019-03-08-second-hull %})**
+**[>> Next Post]({% post_url 2019-03-08-second-hull %})**

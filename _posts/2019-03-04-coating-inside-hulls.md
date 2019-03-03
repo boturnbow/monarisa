@@ -18,4 +18,4 @@ I tried something new to me when coating the insides of the hulls and the bulkhe
 
 ![Pigment on Hull Sides](/assets/images/pigment-hulls2.jpg)
 
-**[Next Post]({% post_url 2019-03-05-preparing-bulkheads %})**
+**[>> Next Post]({% post_url 2019-03-05-preparing-bulkheads %})**

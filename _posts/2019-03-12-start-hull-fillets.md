@@ -28,4 +28,4 @@ Once happy with my filleting mix, I went back and put a smoother fillet over the
 
 ![Aligning the Hulls](/assets/images/fillets-done.jpg)
 
-**[Next Post]({% post_url 2019-03-13-finishing-hull-fillets %})**
+**[>> Next Post]({% post_url 2019-03-13-finishing-hull-fillets %})**
