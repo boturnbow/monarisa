@@ -28,3 +28,5 @@ Most of the beam sockets were also bad. They had broken around the "ears" and ha
 ![Beam Cleats](/assets/images/beam-fittings-complete2.jpg)
 
 **Luckily!** I only got around to gluing down the forebeam sockets before I decided to scrap the hulls. I will have to rebuild those four again but the rest of the sockets I can save for the new hulls.
+
+**[Next Post]({% post_url 2019-02-28-starting-over %})**

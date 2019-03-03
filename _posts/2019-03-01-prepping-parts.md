@@ -24,4 +24,4 @@ I had a burst of enthusiasm after making the decision to rebuild the hulls. So I
 
 ![Step Scarf on Keel](/assets/images/prep-step-scarf.jpg)
 
-**[>> Next Post]({% post_url 2019-03-02-cutting-hull %})**
+**[Next Post]({% post_url 2019-03-02-cutting-hull %})**

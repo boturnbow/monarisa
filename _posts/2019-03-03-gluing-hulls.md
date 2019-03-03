@@ -24,4 +24,4 @@ I wanted to eliminate metal fasteners in the hullsides so that I wouldn't have t
 
 ![Plastic Nails](/assets/images/hullsides-plastic.jpg)
 
-**[>> Next Post]({% post_url 2019-03-04-coating-inside-hulls %})**
+**[Next Post]({% post_url 2019-03-04-coating-inside-hulls %})**

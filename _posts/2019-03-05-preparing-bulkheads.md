@@ -24,4 +24,4 @@ At this point, some of the deck beams needed to be cut to accept the deck string
 
 ![Mortise and Tenon for Deck Beams](/assets/images/bulkheads-beams4.jpg)
 
-**[>> Next Post]({% post_url 2019-03-06-wiring-the-first-hull %})**
+**[Next Post]({% post_url 2019-03-06-wiring-the-first-hull %})**

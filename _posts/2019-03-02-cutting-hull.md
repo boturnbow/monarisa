@@ -28,4 +28,4 @@ Once my 1/4" marine plywood arrived I set to work cutting the pieces for the hul
 
 ![All Parts Cut!](/assets/images/cutting-complete.jpg)
 
-**[>> Next Post]({% post_url 2019-03-03-gluing-hulls %})**
+**[Next Post]({% post_url 2019-03-03-gluing-hulls %})**

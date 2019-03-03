@@ -16,4 +16,4 @@ After a break for summer fun, I got back to work on the second hull. I glued the
 
 ![Wiring Hulls](/assets/images/second-hull-3.jpg)
 
-**[>> Next Post]({% post_url 2019-03-09-diagonal-stiffeners %})**
+**[Next Post]({% post_url 2019-03-09-diagonal-stiffeners %})**
