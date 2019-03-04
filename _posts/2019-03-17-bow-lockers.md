@@ -36,4 +36,4 @@ In the bow locker, I cut and placed some foam padding to keep the lockers from g
 
 ![Foam in Bow Locker](/assets/images/locker-foam.jpg)
 
-**[>> Next Post]({% post_url 2019-03-17-cabin-sides %})**
+**[>> Next Post]({% post_url 2019-03-18-cabin-sides %})**
