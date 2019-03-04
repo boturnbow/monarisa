@@ -27,3 +27,5 @@ The main hatch coamings were built according to plans, but using 3/8" ply and 3/
 ![Soft Seat](/assets/images/main-seat-1.jpg)
 
 ![Seat In Use](/assets/images/main-seat-2.jpg)
+
+**[>> Next Post]({% post_url 2019-03-21-cabin-finish %})**
