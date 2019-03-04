@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 *Build Date: September 2018*
 
-Measuring and cutting the cabin sides was a little tricky. I knew there would be some variations from the measurements in the plans because my sheerstringers were 3/4" instead of 1/2". The thicker sheerstringer would change the height of the cabin sides a little in order to fill the gap at the bottom. I used ratchet straps and wedges to hold the plywood in place for marking in place. This worked well and the cabin sides fit well.
+Measuring and cutting the cabin sides was a little tricky. I knew there would be some variations from the measurements in the plans because my sheerstringers were 3/4" instead of 1/2". The thicker sheerstringer would change the height of the cabin sides a little in order to fill the gap at the bottom. I used ratchet straps and wedges to hold the plywood for marking in place. This worked and the cabin sides fit well.
 
 <!--more-->
 
