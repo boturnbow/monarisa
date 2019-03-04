@@ -10,11 +10,11 @@ I generally followed the building plans for the coamings and hatches for the bow
 
 <!--more-->
 
-I built the hatches by first fitting the frames to the coaming with the proper gap and gluing them in place. Then I glued ply to the top of the frames and trimmed it flush with the router. I added fiberglass and the supports for rope hinges. To get a non-slip surface for the decks I have been adding a non-slip powder used for concrete sealer. I add it to the last coat of epoxy before painting.
-
 ![Gluing the Coaming](/assets/images/locker-gluing.jpg)
 
 ![Coaming](/assets/images/locker-coaming.jpg)
+
+I built the hatches by first fitting the frames to the coaming with the proper gap and gluing them in place. Then I glued ply to the top of the frames and trimmed it flush with the router. I added fiberglass and the supports for rope hinges.
 
 ![Gluing the Hatch Frame](/assets/images/locker-framing.jpg)
 
@@ -27,6 +27,8 @@ I built the hatches by first fitting the frames to the coaming with the proper g
 ![Fitting the Hatches](/assets/images/locker-fit.jpg)
 
 ![Half of Hinge Attached](/assets/images/locker-hinge.jpg)
+
+To get a non-slip surface for the decks I have been adding a non-slip powder used for concrete sealer. I add it to the last coat of epoxy before painting.
 
 ![Non-Slip Additive](/assets/images/locker-non-slip.jpg)
 
