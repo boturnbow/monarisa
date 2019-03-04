@@ -16,7 +16,7 @@ A difference for the fore decks was cutting the hatch for the bow locker. I want
 
 ![Center Stringer Glued First](/assets/images/fore-deck-center.jpg)
 
-![Lateral Stringers Marked and Glued](/assets/images/fore-deck-lateral.jpg)
+![Lateral Stringers Marked and Glued](/assets/images/fore-deck-laterals.jpg)
 
 ![Underside Coated with Two Coats of Epoxy](/assets/images/fore-deck-coated.jpg)
 
@@ -26,4 +26,6 @@ A difference for the fore decks was cutting the hatch for the bow locker. I want
 
 ![Noticing Flat Spot Fore and Aft of Hatch](/assets/images/fore-deck-gluing-1.jpg)
 
-![Decks Trimmed Flush](/assets/images/fore-deck-done.jpg)
+![Decks Trimmed Flush](/assets/images/fore-deck-trimmed.jpg)
+
+**[>> Next Post]({% post_url 2019-03-17-bow-lockers %})**
