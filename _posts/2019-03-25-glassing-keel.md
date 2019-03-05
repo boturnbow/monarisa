@@ -18,4 +18,4 @@ I took the belt sander to the keel to clean up drips and wire marks, but I tried
 
 ![Trimming Glass at Bows](/assets/images/keel-4.jpg)
 
-**[>> Next Post]({% post_url 2019-03-26-glassing-hull %})**
+**[>> Next Post]({% post_url 2019-03-26-glassing-hull-1 %})**
