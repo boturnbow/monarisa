@@ -32,6 +32,12 @@ To get a non-slip surface for the decks I have been adding a non-slip powder use
 
 ![Non-Slip Additive](/assets/images/locker-non-slip.jpg)
 
+I doubled over strips of old bicycle tubes for the gaskets.
+
+![Gasket Shape](/assets/images/locker-gasket-1.jpg)
+
+![Gaskets in Place](/assets/images/locker-gasket-1.jpg)
+
 In the bow locker, I cut and placed some foam padding to keep the lockers from getting beat up by the anchors.
 
 ![Foam in Bow Locker](/assets/images/locker-foam.jpg)
