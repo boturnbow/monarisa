@@ -27,3 +27,5 @@ When it came time to epoxy down the fiberglass I mixed large batches and applied
 ![Adding Epoxy](/assets/images/hull-glass-6.jpg)
 
 ![Adding Epoxy](/assets/images/hull-glass-7.jpg)
+
+**[>> Next Post]({% post_url 2019-03-27-glassing-hull-2 %})**
