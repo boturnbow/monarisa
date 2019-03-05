@@ -23,3 +23,5 @@ So I set about adding fiberglass to all four decks. I added fillets along the st
 ![Fore Deck](/assets/images/decks-fore.jpg)
 
 ![Decks Complete](/assets/images/decks-done.jpg)
+
+**[>> Next Post]({% post_url 2019-03-22-glass-decks %})**
