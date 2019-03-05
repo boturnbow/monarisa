@@ -36,7 +36,7 @@ I doubled over strips of old bicycle tubes for the gaskets.
 
 ![Gasket Shape](/assets/images/locker-gasket-1.jpg)
 
-![Gaskets in Place](/assets/images/locker-gasket-1.jpg)
+![Gaskets in Place](/assets/images/locker-gasket-2.jpg)
 
 In the bow locker, I cut and placed some foam padding to keep the lockers from getting beat up by the anchors.
 
