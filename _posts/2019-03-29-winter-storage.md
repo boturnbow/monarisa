@@ -19,3 +19,5 @@ Winter was making it too difficult to keep working with epoxy in an unheated and
 ![Graphite Done](/assets/images/winter-loaded.jpg)
 
 ![Graphite Done](/assets/images/winter-stored.jpg)
+
+**[>> Next Post]({% post_url 2019-03-30-winter-in-ghana %})**
