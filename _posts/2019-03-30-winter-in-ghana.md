@@ -3,7 +3,7 @@ layout: post
 title:  "Winter Boat Work in Ghana"
 ---
 
-With my boat stored for the winter, I took a volunteer position at [Escape 3 Points in Ghana](https://www.escape3points.com). I spent several months there working on a Tiki 21. The eco-lodge is on a gorgeous part of the western coast of Ghana. It's remote and quiet and has a great beach.
+With my boat stored for the winter, I took a volunteer position at [Escape 3 Points in Ghana](http://www.escape3points.com). I spent several months there working on a Tiki 21. The eco-lodge is on a gorgeous part of the western coast of Ghana. It's remote and quiet and has a great beach.
 
 The boat, *Idle No More*, had been built in Canada by my friend Rod and was shipped to Ghana in 2001. It hadn't sailed much in Ghana and needed some maintenance after years in the heat and humidity. Acquiring epoxy and marine plywood in Ghana was very challenging and some compromises had to be made while working. But we completed quite a few projects and got the boat back in the water for a few sails.
 
@@ -41,9 +41,9 @@ Some of the work:
 
 ![Trampoline Batten](/assets/images/ghana-batten.jpg)
 
-![Glassing the Fore Hatches](/assets/images/ghana-fore-hatch.jpg)
-
 ![Rope Hinges Added to Fore Hatches](/assets/images/ghana-fore-hatches.jpg)
+
+![Glassing the Fore Hatches](/assets/images/ghana-fore-hatch.jpg)
 
 ![Building New Main Hatches](/assets/images/ghana-main-hatch.jpg)
 
