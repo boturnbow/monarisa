@@ -11,3 +11,5 @@ The intent of this blog is to give back to the Wharram community. During my buil
 * [Little Cat](http://tiki21littlecat.blogspot.com)
 
 And the great community at [Wharram Builders and Friends](http://wharrambuilders.ning.com).
+
+And just for inspiration check out [Esperantos](https://esperantos.eu) - a self-designed and built catamaran as a platform for the arts!
