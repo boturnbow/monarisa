@@ -73,3 +73,5 @@ I started rebuilding platforms with West System epoxy left over from my son's bo
 ![Adding Non-Skid to Last Epoxy Coat](/assets/images/epoxy-non-skid.jpg)
 
 ![Pigmenting Epoxy](/assets/images/epoxy-pigment.jpg)
+
+**[>> Next Post]({% post_url 2019-04-05-name %})**
