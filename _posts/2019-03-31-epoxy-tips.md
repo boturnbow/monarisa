@@ -28,6 +28,7 @@ I'm not presumptuous enough to think that I have discovered some unknown tricks 
 * For gluing bare wood to bare wood, I used milled cotton fiber.
 * For epoxy coated surfaces, I used colloidal silica.
 * For fillets, I used 1/3 colloidal silica, 1/3 wood flour, 1/3 glass bubbles.
+* For fairing, I used a used a 4:1 mix of phenolic micro-balloons to collidal silica.
 * When mixing graphite, I mixed at 10% by volume.
 
 ## Cold Weather
