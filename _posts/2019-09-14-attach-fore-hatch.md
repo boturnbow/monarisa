@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Attach the Fore Hatch"
+---
+
+With the decks glassed, I started attaching fittings to the decks beginning with the fore hatch. I glued and screwed on the deck half of the rope hinge and a hold down for webbing made of ash. I finished up with cosmetic fillets and epoxy coats.
+
+pics
+
+I wanted to hold the hatches down with webbing but had heard that using side release buckles didn't do a good job. My friend, Rod, is using over-center buckles for the fore hatches on his Mana 24 but I couldn't source them very easily. I knew that I wanted something with the convenience of a side release buckle the ability to tighten down like a cam buckle so I decided to combine them. I'll try this for a while and see what I think.
+
+pics
+
+I'll add the rope hinges after painting the decks.
