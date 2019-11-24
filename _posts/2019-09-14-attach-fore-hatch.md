@@ -16,3 +16,5 @@ I wanted to hold the hatches down with webbing but had heard that using side rel
 ![Fore Hatch Unlocked](/assets/images/fore-hatch-unlocked.jpg)
 
 I'll add the rope hinges after painting the decks.
+
+**[>> Next Post]({% post_url 2019-09-23-tramp-battens %})**
