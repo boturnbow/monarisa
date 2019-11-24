@@ -9,7 +9,7 @@ With the decks glassed, I started attaching fittings to the decks beginning with
 
 ![Fore Hatch Hold Down](/assets/images/fore-hatch-hold-down.jpg)
 
-I wanted to hold the hatches down with webbing but had heard that using side release buckles didn't do a good job. My friend, Rod, is using over-center buckles for the fore hatches on his Mana 24 but I couldn't source them very easily. I knew that I wanted something with the convenience of a side release buckle the ability to tighten down like a cam buckle so I decided to combine them. I'll try this for a while and see what I think.
+I wanted to hold the hatches down with webbing but had heard that using side release buckles didn't do a good job. My friend, Rod, is using over-center buckles for the fore hatches on his Mana 24 but I couldn't source them very easily. I knew that I wanted something with the convenience of a side release buckle **and** the ability to tighten down like a cam buckle so I decided to combine them. I'll try this for a while and see what I think.
 
 ![Fore Hatch Locked](/assets/images/fore-hatch-locked.jpg)
 
