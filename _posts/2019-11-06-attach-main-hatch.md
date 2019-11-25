@@ -17,4 +17,4 @@ The hatches were snug when closed and worked well in the partly open position. I
 
 ![Seat and Studs](/assets/images/main-hatch-5.jpg)
 
-**[>> Next Post]({% post_url 2019-11-09-deck-fitting %})**
+**[>> Next Post]({% post_url 2019-11-09-platform-fitting %})**
