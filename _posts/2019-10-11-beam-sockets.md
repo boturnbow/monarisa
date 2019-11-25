@@ -55,4 +55,4 @@ After all that! it was anticlimactic to mark and attach the beam blocks to the u
 
 ![Getting Ready to Glue Beam Blocks](/assets/images/beam-socket-good-12.jpg)
 
-**[>> Next Post]({% post_url 2019-10-11-side-deck-ledges %})**
+**[>> Next Post]({% post_url 2019-10-16-side-deck-ledges %})**
