@@ -16,7 +16,7 @@ I built the center and side platforms according to the plans but I substituted 3
 
 I had some West epoxy left over from building [Super Chicken](http://superchicken.turnbows.org) ten years before so I started working with that. That was enough to glue the pieces together and fillet the bottoms. When that was gone, I ordered three gallons of DWX epoxy from Duckworks (since discontinued). I chose DWX because it was UV resistant and I wanted to finish the platforms clear.
 
-I also rebuilt the foredeck platform. This boat came with two small trampolines with a wooden platform in between. The original platform was rectangular which didn't fit the curvature of the bows with rectangular trampolines. I rebuilt it with a trapezoidal shape and added some anchor handling to the front platform and beam. The fore deck is not in the Wharram plans but I liked the idea of a hard surface up front for dealing with the anchor. I hope the additional weight up front doesn't cause the bows to dive into waves.
+I also rebuilt the fore platform. This boat came with two small trampolines with a wooden platform in between. The original platform was rectangular which didn't fit the curvature of the bows with rectangular trampolines. I rebuilt it with a trapezoidal shape and added some anchor handling to the front platform and beam. The fore platform is not in the Wharram plans but I liked the idea of a hard surface up front for dealing with the anchor. I hope the additional weight up front doesn't cause the bows to dive into waves.
 
 ![Painting Platforms](/assets/images/paintingplatforms.jpg)
 
@@ -24,6 +24,6 @@ I also rebuilt the foredeck platform. This boat came with two small trampolines 
 
 ![Anchor Handling](/assets/images/anchorhandling.jpg)
 
-**Update:** After the platforms had been in the sun on the trailer for most of a year the decks had checked and the epoxy cracked. I learned that Douglas Fir will always check and should be covered in fiberglass to prevent that. A later post covers adding the fiberglass.
+**Update:** After the platforms had been in the sun on the trailer for most of a year the platforms had checked and the epoxy cracked. I learned that Douglas Fir will always check and should be covered in fiberglass to prevent that. A later post covers adding the fiberglass.
 
 **[>> Next Post]({% post_url 2019-02-16-tillers-and-tiller-bar %})**
