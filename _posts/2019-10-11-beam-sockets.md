@@ -54,3 +54,5 @@ After building up the beam sockets, the "ears" of the sockets were too short to 
 After all that! it was anticlimactic to mark and attach the beam blocks to the underside of the beams.
 
 ![Getting Ready to Glue Beam Blocks](/assets/images/beam-socket-good-12.jpg)
+
+**[>> Next Post]({% post_url 2019-10-11-side-deck-ledges %})**
