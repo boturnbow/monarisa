@@ -10,3 +10,5 @@ Hey - I've done this [before]({% post_url 2019-02-27-beam-sockets-cleats %}) - a
 ![Bolted](/assets/images/beam-cleats-2.jpg)
 
 ![Inside Fillet](/assets/images/beam-cleats-3.jpg)
+
+**[>> Next Post]({% post_url 2019-10-11-beam-sockets %})**
