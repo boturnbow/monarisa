@@ -14,3 +14,5 @@ With the beams fitted, I could modify the platforms to fit the new hulls and bea
 ![Fitting](/assets/images/platform-fitting-3.jpg)
 
 ![Fitting](/assets/images/platform-fitting-4.jpg)
+
+![Looking Good](/assets/images/platform-fitting-5.jpg)
