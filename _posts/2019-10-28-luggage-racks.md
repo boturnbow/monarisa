@@ -14,3 +14,5 @@ I decided to add "luggage racks" to the rear decks. I thought it would be a grea
 ![Complete](/assets/images/luggage-rack-4.jpg)
 
 BTW - there's my new router. I had to replace it after my garage was broken into and my bike and best tools were stolen :(
+
+  **[>> Next Post]({% post_url 2019-10-29-deck-hold-downs %})**
