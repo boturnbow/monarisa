@@ -12,5 +12,3 @@ The Tiki plans call for a combination of swivels and securing blocks to hold the
 ![Fore Platform](/assets/images/hold-downs-3.jpg)
 
 ![Painted Up](/assets/images/hold-downs-4.jpg)
-
-**[>> Next Post]({% post_url 2019-11-06-attach-main-hatch %})**

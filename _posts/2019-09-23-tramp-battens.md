@@ -12,5 +12,3 @@ I glued and screwed the trampoline battens to the fore decks after drilling the 
 ![Trampoline Batten](/assets/images/tramp-batten-3.jpg)
 
 ![Trampoline Batten](/assets/images/tramp-batten-tramps.jpg)
-
-**[>> Next Post]({% post_url 2019-10-01-garage-heat %})**

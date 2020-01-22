@@ -23,5 +23,3 @@ excerpt_separator: <!--more-->
 I wanted to eliminate metal fasteners in the hullsides so that I wouldn't have to worry about them eventually working out through the fiberglass. I tried using plastic nails with mixed results. I tried three different nail guns (pawn shops and Harbor Freight) before I found one that would reliably shoot the nails without jamming. The nail manufacturer makes their own $200 nail gun but I wasn't that committed to the nails! I struggled to be able to consistently shoot nails and get them to penetrate both pieces of plywood on the butt joints. I had a lot of broken nails that only penetrated the top layer. When it came to the sheerstringers the plastic nails couldn't penetrate the ash at all. So, my results with plastic nails was poor and I didn't use them much more.
 
 ![Plastic Nails](/assets/images/hullsides-plastic.jpg)
-
-**[>> Next Post]({% post_url 2019-03-04-coating-inside-hulls %})**

@@ -20,5 +20,3 @@ I crack the garage door for combustion air ventilation but the cold air at groun
 ![Door Cracked](/assets/images/heat-gap.jpg)
 
 ![Door Baffles](/assets/images/heat-baffle.jpg)
-
-**[>> Next Post]({% post_url 2019-10-07-beam-cleats %})**

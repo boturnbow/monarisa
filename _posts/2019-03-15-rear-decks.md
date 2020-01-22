@@ -43,5 +43,3 @@ I glued the decks down with lots of nails and clamps. And crawled inside to make
 ![Decks Trimmed Flush](/assets/images/rear-deck-done-1.jpg)
 
 ![Interior View](/assets/images/rear-deck-done-2.jpg)
-
-**[>> Next Post]({% post_url 2019-03-16-fore-decks %})**

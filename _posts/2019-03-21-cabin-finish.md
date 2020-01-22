@@ -29,5 +29,3 @@ I made gear pockets for the aft part of the cabin. The pockets have a plywood st
 ![Outer Pocket](/assets/images/cabin-3-pocket-2.jpg)
 
 I also glued up two layers of foam pads for covering the bunks in the cabin. The pads are in two pieces that can be hooked together so they should be easy to move around in the cabin when I need in the bilge lockers.
-
-**[>> Next Post]({% post_url 2019-03-22-glass-platforms %})**

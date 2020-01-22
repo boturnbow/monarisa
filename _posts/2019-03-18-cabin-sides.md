@@ -25,5 +25,3 @@ After coating the insides with epoxy, I wired the sides in place and filleted in
 ![Wiring Cabinside](/assets/images/cabin-1-gluing-2.jpg)
 
 ![Fillet and Tape](/assets/images/cabin-1-taped.jpg)
-
-**[>> Next Post]({% post_url 2019-03-19-cabin-top %})**

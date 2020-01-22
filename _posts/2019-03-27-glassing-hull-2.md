@@ -19,5 +19,3 @@ Since the first hull side went so well I tackled the next three hullsides quickl
 ![Bow Overlap](/assets/images/hull-glass-2-4.jpg)
 
 ![Skeg Overlaps](/assets/images/hull-glass-2-5.jpg)
-
-**[>> Next Post]({% post_url 2019-03-28-graphite %})**

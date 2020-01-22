@@ -17,5 +17,3 @@ I gather that it's a momentous day in a build to flip the hulls. And it sure fel
 ![Flipped](/assets/images/flipping-3.jpg)
 
 ![Carts Still Work](/assets/images/flipping-4.jpg)
-
-**[>> Next Post]({% post_url 2019-03-25-glassing-keel %})**

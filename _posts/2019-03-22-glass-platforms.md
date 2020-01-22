@@ -23,5 +23,3 @@ So I set about adding fiberglass to all four platforms. I added fillets along th
 ![Fore Platform](/assets/images/platforms-fore.jpg)
 
 ![Platforms Complete](/assets/images/platforms-done.jpg)
-
-**[>> Next Post]({% post_url 2019-03-23-rudders %})**

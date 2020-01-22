@@ -25,5 +25,3 @@ I also rebuilt the fore platform. This boat came with two small trampolines with
 ![Anchor Handling](/assets/images/anchorhandling.jpg)
 
 **Update:** After the platforms had been in the sun on the trailer for most of a year the platforms had checked and the epoxy cracked. I learned that Douglas Fir will always check and should be covered in fiberglass to prevent that. A later post covers adding the fiberglass.
-
-**[>> Next Post]({% post_url 2019-02-16-tillers-and-tiller-bar %})**

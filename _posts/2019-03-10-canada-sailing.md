@@ -16,5 +16,3 @@ Luckily, neither of us was hurt. The problem occurred where the Dyneema shrouds 
 ![Cabin Ceiling](/assets/images/canada-cabin.jpg)
 
 ![Mana 24 on a trailer](/assets/images/canada-trailer.jpg)
-
-**[>> Next Post]({% post_url 2019-03-11-inspection-hatches %})**

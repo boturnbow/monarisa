@@ -19,5 +19,3 @@ I also built an anchor rode bag out of a stiff mesh material. It has heavy mesh 
 ![Headsail Cover](/assets/images/sewing-headsail.jpg)
 
 ![Anchor Rode Bag](/assets/images/sewing-anchor.jpg)
-
-**[>> Next Post]({% post_url 2019-02-26-soft-hatches-part-1 %})**

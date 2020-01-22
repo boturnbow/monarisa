@@ -64,5 +64,3 @@ Some of the work:
 ![Idle No More](/assets/images/ghana-beach.jpg)
 
 ![Launching Through the Surf](/assets/images/ghana-launch.jpg)
-
-**[>> Next Post]({% post_url 2019-03-31-epoxy-tips %})**

@@ -20,5 +20,3 @@ After drilling the holes I temporarily lashed the rudders in place to check the 
 ![Rudder Attached](/assets/images/rudder-holes-1.jpg)
 
 ![Rudder Attached](/assets/images/rudder-holes-2.jpg)
-
-**[>> Next Post]({% post_url 2019-11-26-orange-paint %})**

@@ -44,5 +44,3 @@ I built the dolphin stay, forestay bridge (2 pieces), and put the mast loops in 
 While constructing I was thinking of how to attach the headsail to a Dyneema forestay. The current bronze hanks on the jib just barely fit over the 1/4" Dyneema. And I am worried about them abrading the line. Options are: removing the hanks and using soft shackles, or put stainless rings on the forestay and clip the hanks to those. Let me know if you have any ideas!
 
 I'm calling this post Part 1 because I will follow up when I finish the rigging and actaully raise the mast.
-
-**[>> Next Post]({% post_url 2019-02-21-trailer %})**

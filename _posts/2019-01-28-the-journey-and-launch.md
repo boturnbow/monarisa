@@ -28,5 +28,3 @@ I took the platform home with plans to repair it. I left the boat in the water t
 I pulled the boat out of the water in October with lots of help from Matt. We tipped one of the hulls on its side in the water while transitioning to the travel beams. This confirmed that I wanted to change the trailer to have telescoping arms so that travel beams weren't necessary. I put the boat away for the winter and spent time studying the plans. There was a lot of work to do! And more that I didn't even know about yet.
 
 So, 2016 was a bust for sailing. But at least the boat had been in the water. I anticipated rebuilding the platforms in the spring of 2017 and then setting sail. HAHA!!
-
-**[>> Next Post]({% post_url 2019-02-15-rebuilding-platforms %})**

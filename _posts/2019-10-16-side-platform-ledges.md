@@ -14,5 +14,3 @@ With the beams fitted I could mark on the cabin sides where the ledges for the s
 ![Screws on the Inside](/assets/images/side-platform-ledges-4.jpg)
 
 ![With Fillets](/assets/images/side-platform-ledges-5.jpg)
-
-**[>> Next Post]({% post_url 2019-10-21-jib-leads %})**

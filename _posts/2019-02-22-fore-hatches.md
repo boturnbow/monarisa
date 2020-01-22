@@ -19,5 +19,3 @@ The fore hatches on the boat had not been covered in fiberglass. That's accordin
 ![Painted Hatches](/assets/images/forehatches-painted.jpg)
 
 **Note:** After I built the new hulls, I built all new fore hatches to match. So this bit of work was just extra fiberglassing practice!
-
-**[>> Next Post]({% post_url 2019-02-25-sail-covers-anchor-bag %})**

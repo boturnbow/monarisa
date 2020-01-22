@@ -27,5 +27,3 @@ A difference for the fore decks was cutting the hatch for the bow locker. I want
 ![Noticing Flat Spot Fore and Aft of Hatch](/assets/images/fore-deck-gluing-2.jpg)
 
 ![Decks Trimmed Flush](/assets/images/fore-deck-trimmed.jpg)
-
-**[>> Next Post]({% post_url 2019-03-17-bow-lockers %})**

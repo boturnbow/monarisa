@@ -47,5 +47,3 @@ At this point the hatches fit well and rolled up easily. It felt very sturdy to 
 ![Hatch closed](/assets/images/main-closed.jpg)
 
 **Luckily!** My timing was such that I was just about to add all fasteners when I decided to scrap the hulls altogether. When I get back to fitting these soft hatches to the new hulls I think I will be glad that I didn't add any fasteners yet.
-
-**[>> Next Post]({% post_url 2019-02-27-beam-sockets-cleats %})**

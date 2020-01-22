@@ -10,5 +10,3 @@ The tilt mechanism on my outboard is designed for a sloped transom and won't rai
 ![Motor Tilt](/assets/images/motor-tilt-2.jpg)
 
 ![Rubber V Block](/assets/images/motor-tilt-3.jpg)
-
-**[>> Next Post]({% post_url 2019-10-28-luggage-racks %})**

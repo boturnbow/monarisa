@@ -54,5 +54,3 @@ As I was putting glass on one section I would go back and add coats of epoxy to 
 **It was a major milestone to be done with fiberglassing!!**
 
 ![Glassing Complete](/assets/images/deck-glass-done.jpg)
-
-**[>> Next Post]({% post_url 2019-09-14-attach-fore-hatch %})**
