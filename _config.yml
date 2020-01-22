@@ -11,6 +11,9 @@ github_username:  boturnbow
 facebook_username: bo.turnbow
 rss: rss
 
+disqus:
+    shortname: mona-risa
+
 header_pages:
   - about.md
 
