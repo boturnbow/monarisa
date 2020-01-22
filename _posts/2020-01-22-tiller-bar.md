@@ -18,3 +18,5 @@ I built a tiller extension out of an oak dowel with a handle cut from lamination
 ![Hardware](/assets/images/tiller-bar-hardware.jpg)
 
 ![Complete](/assets/images/tiller-bar-complete.jpg)
+
+hi: {{ site.minima.social_links }}
