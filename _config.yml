@@ -6,12 +6,10 @@ description: >
 
 show_excerpts: true
 
-minima:
-  # generate social links in footer
-  social_links:
-    github: boturnbow
-    facebook: bo.turnbow
-    rss: rss
+# generate social links in footer
+github_username:  boturnbow
+facebook_username: bo.turnbow
+rss: rss
 
 header_pages:
   - about.md

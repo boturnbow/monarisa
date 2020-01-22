@@ -18,9 +18,3 @@ I built a tiller extension out of an oak dowel with a handle cut from lamination
 ![Hardware](/assets/images/tiller-bar-hardware.jpg)
 
 ![Complete](/assets/images/tiller-bar-complete.jpg)
-
-hi: {{ site.minima.social_links }}
-
-{%- assign social = site.minima.social_links -%}
-
-{%- if social.facebook -%}<li><a rel="me" href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>{%- endif -%}
