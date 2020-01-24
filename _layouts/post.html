@@ -22,12 +22,23 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {% if page.next.url %}
-      <p>&raquo; Next Post: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+    {% if page.next.url or page.previous.url %}
+      <table>
+        <tr>
+          <td width="50%">
+            {% if page.next.url %}
+              &raquo; Next Post: <a href="{{page.next.url}}">{{page.next.title}}</a>
+            {% endif %}
+          </td>
+          <td width="50%">
+            {% if page.previous.url %}
+              &laquo; Previous Post: <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+            {% endif %}
+          </td>
+        </tr>
+      </table>
     {% endif %}
-    {% if page.previous.url %}
-      <p>&laquo; Previous Post: <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
-    {% endif %}
+
   </div>
 
   {%- if site.disqus.shortname -%}
