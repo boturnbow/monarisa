@@ -26,13 +26,15 @@ layout: default
       <table>
         <tr>
           <td width="50%">
-            {% if page.next.url %}
-              &raquo; Next Post: <a href="{{page.next.url}}">{{page.next.title}}</a>
+            {% if page.previous.url %}
+              &laquo; Previous Post
+              <br><a href="{{page.previous.url}}">{{page.previous.title}}</a>
             {% endif %}
           </td>
-          <td width="50%">
-            {% if page.previous.url %}
-              &laquo; Previous Post: <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+          <td width="50%" align="right">
+            {% if page.next.url %}
+              Next Post &raquo;
+              <br><a href="{{page.next.url}}">{{page.next.title}}</a>
             {% endif %}
           </td>
         </tr>
