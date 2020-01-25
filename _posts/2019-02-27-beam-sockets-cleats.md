@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Replacing the Beam Cleats and Sockets"
+actual-date: May 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: May 2018*
-
 The beam lashing cleats on the hulls showed a lot of rot and weakness around the edges. The cleats were made of plywood and the edges had not been sealed very well. In addition, the cleats for the front beam had not been bolted at all, but attached with screws. The buried screw heads had allowed moisture into the plywood. Also the cleats had not been epoxied to the hulls. I believe they were attached with 3M 5200. Going around the hulls I could pull some of the cleats off **with just my hands!**
-
-<!--more-->
 
 I made new cleats out of ash and attached them according to the plans - 1/4" bolts and attached with
 epoxy.

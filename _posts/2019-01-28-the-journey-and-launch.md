@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Journey and Launch"
+actual-date: Summer 2016
 ---
 
 In June, 2016 I drove from Helena, Montana, USA to Bobcaygeon, Ontario, Canada to pick up my pre-owned Wharram Tiki 21. I was very excited to get my new boat and to see some parts of the world that I hadn't seen before - the Upper Peninsula of Michigan and the North Channel of Lake Huron (a famous cruising area). Unfortunately, I didn't have much time off from work to spend time in these areas so it was just a quick drive through and back - 4,400 miles in 7 days. Ugh.

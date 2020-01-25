@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Preparing the Bulkheads"
+actual-date: June 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: June 2018*
-
 The plans call for adding the deck beams to the bulkheads before putting them into the hulls. I decided to also add the bunk bearers at the same time. It seemed like it would be a lot easier with them out of the hull. I coated both sides of the bulkheads with two coats of pigmented epoxy.
-
-<!--more-->
 
 ![Bulkheads](/assets/images/bulkheads.jpg)
 

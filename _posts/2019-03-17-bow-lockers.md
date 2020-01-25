@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Coamings and Hatches for the Bow Lockers"
+actual-date: September 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: September 2018*
-
 I generally followed the building plans for the coamings and hatches for the bow lockers. My differences were: 3/4" stock instead of 1/2" stock, 3/8" plywood for the coamings instead of 1/4", and the fore and aft blocking I had added to the inside of the deck made the coamings very easy to attach.
-
-<!--more-->
 
 ![Gluing the Coaming](/assets/images/locker-gluing.jpg)
 

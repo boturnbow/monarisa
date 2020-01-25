@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Rear Decks"
+actual-date: August 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: August 2018*
-
 Once again, I did not use the triangular wood called for in the plans. For the deck stringers, I used rectangular pieces that I milled from light-weight spruce. The dimensions were inspired by Rod's Mana. I also cut the rear decks in one piece instead of two pieces joined down the middle as called for in the plans.
-
-<!--more-->
 
 ![Rectangular Stock](/assets/images/rear-deck-stock.jpg)
 

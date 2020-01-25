@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Finishing the Hull Fillets"
+actual-date: August 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: August 2018*
-
 I quickly got into a rhythm on the hull fillets. For each hull section, I would prep by sanding and cleaning, aligning the hull, and cutting the fiberglass tape. Then I could do all the filleting and taping for a section in a couple of hours. I applied the fillet mixture out of the cut-off corner of a plastic bag. And then smoothed to the proper radius with tools cut from plastic auto body repair scrapers. I laid the fiberglass tape in the wet fillet and then smoothed with a dry foam roller and filled with neat epoxy using a chip brush.
-
-<!--more-->
 
 After the filets had dried for a day I would pull all the wires. I worked from the ends towards the middle and kept aligning as I went. The hulls quickly started feeling very stiff and strong. What a transformation!
 

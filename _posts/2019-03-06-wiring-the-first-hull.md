@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Wiring the First Hull Together"
+actual-date: June 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: June 2018*
-
 The building plans give explicit instructions on wiring the hulls together. I deviated from them a little bit because I was using 3/4" material for the keel instead of 5/8". Otherwise, I followed them exactly and was very happy with the results. It's starting to look like a boat already!!
-
-<!--more-->
 
 ![Bows and Sterns](/assets/images/wiring-bows-sterns.jpg)
 

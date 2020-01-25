@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Gluing Hull Sides and Sheerstringers"
+actual-date: June 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: June 2018*
-
  With the pieces cut, it was time to glue the hull sides together. Each hull is made of three pieces joined by butt blocks at the joints. I glued the pieces together with thickened epoxy trying to keep them as straight as possible along the top edge. Of course, each piece of plywood had its own twists and bows that made this difficult to align and to hold while the epoxy cured. I added the sheerstringers afterwards along the top edge of each the four hull sides.
-
-<!--more-->
 
 ![Gluing Hullsides](/assets/images/hullsides-gluing.jpg)
 

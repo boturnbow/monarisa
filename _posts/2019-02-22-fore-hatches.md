@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Glassing Fore Hatches"
+actual-date: February 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: February 2018*
-
 The fore hatches on the boat had not been covered in fiberglass. That's according to the building plans. However, the wood had checked badly and the paint cracked. I sanded the hatches down and glassed them. To make fiberglassing easier, I would have liked to use a router to roll the edges and corners more. But the thickness of the wood used prevented that. Bending the fiberglass around the corners was a little difficult but came out OK.
-
-<!--more-->
 
 ![Original Hatches](/assets/images/forehatches-original.jpg)
 

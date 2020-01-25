@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Making the Cabin Nicer"
+actual-date: September 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: September 2018*
-
 Before I put on the cabin tops I did some finish work inside to make them cozier for living. I wanted a nice finish inside that was easy to keep clean. The inside of the hulls already had two coats of epoxy on them but the epoxy coat had been abused while wiring the hulls together and adding the fillets and bunks. I cleaned up drips and fillet chunks and did a light sanding before rolling on a thin third coat of epoxy. It turned out very nice.
-
-<!--more-->
 
 ![Third Coat of Epoxy Curing](/assets/images/cabin-3-epoxy.jpg)
 

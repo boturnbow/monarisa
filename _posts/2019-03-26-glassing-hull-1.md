@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Glassing the First Hull Side"
+actual-date: October 2018
 category: building
-excerpt_separator: <!--more-->
 ---
 
-*Build Date: October 2018*
-
 Honestly, I was intimidated to fiberglass 21 feet of hull in one go. But I had done smaller jobs on Super Chicken and I had seen a few videos so it was time to give it a go. The weather at this time was a blessing and a curse. It was cold so I would have a long open time when working. But it was too cold to cure so I had to construct a tent inside the garage with a heater inside to raise the temperature for curing. The tent made work difficult because the light was poor inside.
-
-<!--more-->
 
 I laid the glass out on the boat and trimmed it with good overlaps to reinforce the keel and skeg. I know that there is a debate about whether you should first put a coat of epoxy on the wood before fiberglassing or not. Devlin's preference is to not and that worked fine for me as well.
 

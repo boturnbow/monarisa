@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Sailing On a Mana 24 in Canada"
+actual-date: July 2018
+category: [ sailing, canada ]
 ---
 
 In mid-July 2018, I went to Lake Diefenbaker, Saskatchewan, Canada to sail with my friend [Rod on his Mana 24](https://villagerainbows.com). We became friends on Facebook via the Wharram groups because we were both working on Wharrams at the same time. Rod had also built a Tiki 21 in the past so I was curious to sail on his new boat and talk about his old boat. Remember, at this point I have **never sailed on a Wharram!** My only catamaran experience is a small Hobie cat in college.

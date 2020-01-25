@@ -1,14 +1,10 @@
 ---
 layout: post
 title:  "Deciding to Rebuild the Hulls"
-excerpt_separator: <!--more-->
+actual-date: May 2018
 ---
 
-*Build Date: May 2018*
-
 At this point in the rebuild, I have become very familiar with the Tiki 21 plans. And I have spent a lot of time crawling around in the hulls. And I have started to have some serious concerns:
-
-<!--more-->
 
 * **There are no fillets!** The original builder did not put fillets in the hulls - at all! Instead, he used fiberglass tape on the joints. This includes the keel.
 * The overall quality of the work has been very low. Lots of short cuts taken, screws half-driven in or over-driven, and scraps glued together instead of a whole piece of plywood.
