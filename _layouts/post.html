@@ -22,9 +22,9 @@ layout: default
       {%- if page.actual-date -%}
         <div>Actual Date: {{ page.actual-date }}</div>
       {%- endif -%}
-      {%- if page.categories != '' -%}
+      {%- if page.categories | size > 0 -%}
         <div>
-        sssCategory: {{ page.categories | size }}
+        Category:
         {%- for category in page.categories -%}
           &nbsp;<a href="/categories/#{{category}}">{{ category | capitalize }}</a>
           {%- unless forloop.last -%},{%- endunless -%}
