@@ -24,7 +24,7 @@ layout: default
       {%- endif -%}
       {%- if page.categories.size > 0 -%}
         <div>
-        Category: {{ page.categories | size }}
+        Category:
         {%- for category in page.categories -%}
           &nbsp;<a href="/categories/#{{category}}">{{ category | capitalize }}</a>
           {%- unless forloop.last -%},{%- endunless -%}
