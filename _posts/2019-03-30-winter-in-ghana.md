@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Winter Boat Work in Ghana"
+category: [ building, sailing, ghana ]
 ---
 
 With my boat stored for the winter, I took a volunteer position at [Escape 3 Points in Ghana](http://www.escape3points.com). I spent several months there working on a Tiki 21. The eco-lodge is on a gorgeous part of the western coast of Ghana. It's remote and quiet and has a great beach.
