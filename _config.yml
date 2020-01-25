@@ -16,7 +16,7 @@ disqus:
 
 header_pages:
   - sitemap.md
-  - about.md
+  - links.md
 
 theme: minima
 

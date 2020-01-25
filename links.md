@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links
+permalink: /links/
 ---
 
 The intent of this blog is to give back to the Wharram community. During my build, it was incredibly helpful for me to read what others had done. So I wanted to do the same for other builders and sailors. Tiki 21 blogs helpful to me were:
