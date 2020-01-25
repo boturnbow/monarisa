@@ -12,19 +12,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-navigation {
-  margin: 3em 0;
+  margin: 2em 0;
   @extend %clearfix;
-  .nav-links {
-    border-top: 1em;
-  }
   .nav-previous {
+    width: 50%;
     float: left;
   }
   .nav-next {
+    width: 50%;
     float: right;
     text-align: right;
   }
   span.nav-subtitle {
+    display: block;
     font-size: smaller;
   }
   span.nav-title {
