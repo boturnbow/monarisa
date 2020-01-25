@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Side Platform Ledges"
+category: building
 ---
 
 With the beams fitted I could mark on the cabin sides where the ledges for the side platforms would be located. I beveled the top edges of the ledges for good support for the platforms. Wire stitches helped get the placement correct and screws from the inside clamped it tight. Cosmetic fillets covered up the wire holes.

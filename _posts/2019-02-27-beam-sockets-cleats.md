@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Replacing the Beam Cleats and Sockets"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Standing Rigging - Part 1"
+category: building
 excerpt_separator: <!--more-->
 ---
 

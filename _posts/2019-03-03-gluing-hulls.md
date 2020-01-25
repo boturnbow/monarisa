@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Gluing Hull Sides and Sheerstringers"
+category: building
 excerpt_separator: <!--more-->
 ---
 

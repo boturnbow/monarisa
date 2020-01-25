@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wiring the First Hull Together"
+category: building
 excerpt_separator: <!--more-->
 ---
 

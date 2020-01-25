@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Heat the Garage"
+category: building
 ---
 
 Before leaving for Ghana I started using a small propane tank top heater to cure epoxy. At the time, I was working in a less finished and less insulated garage so I had decided not to heat the whole garage. Instead I built a tarp tent around my work and put the the heater in there. It was a pain.

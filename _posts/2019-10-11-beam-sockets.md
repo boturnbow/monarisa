@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mis-Adventures in Beam Sockets"
+category: building
 ---
 
 Ugh. I had a long, rough time getting the beam pads and sockets properly constructed. I started by leveling the hulls with shims under the hull cradle wheels. Then I leveled the beams in their spots with a line level.

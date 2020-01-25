@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Luggage Racks"
+category: building
 ---
 
 I decided to add "luggage racks" to the rear decks. I thought it would be a great place to store gasoline and propane tanks. I know rear netting is common but decided to try this instead. The ash cleats are glued and screwed in place with some big fillets around them as well.

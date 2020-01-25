@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Attach the Fore Hatch"
+category: building
 ---
 
 With the decks glassed, I started attaching fittings to the decks beginning with the fore hatch. I glued and screwed on the deck half of the rope hinge and a hold down for webbing made of ash. I finished up with cosmetic fillets and epoxy coats.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fitting the Platforms"
+category: building
 ---
 
 [Flash back to 2017]({% post_url 2019-02-15-rebuilding-platforms %}) to see when I first built the platforms for the original hulls and the original beams. Those hulls were shaped a little differently along the side of the cabin where they meet the side platforms. The old beams were even more different than the current ones because they had **no fillets** on them.

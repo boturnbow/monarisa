@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Preparing the Bulkheads"
+category: building
 excerpt_separator: <!--more-->
 ---
 

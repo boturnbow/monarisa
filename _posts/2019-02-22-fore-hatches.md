@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Glassing Fore Hatches"
+category: building
 excerpt_separator: <!--more-->
 ---
 

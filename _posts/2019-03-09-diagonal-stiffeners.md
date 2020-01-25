@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Diagonal Stiffeners"
+category: building
 excerpt_separator: <!--more-->
 ---
 

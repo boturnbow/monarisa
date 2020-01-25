@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rear Decks"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Main Hatch - Coamings and Rails"
+category: building
 excerpt_separator: <!--more-->
 ---
 

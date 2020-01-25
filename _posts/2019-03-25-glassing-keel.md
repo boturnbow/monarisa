@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Glassing the Keel"
+category: building
 excerpt_separator: <!--more-->
 ---
 

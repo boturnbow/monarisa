@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Glassing the Platforms"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Making the Cabin Nicer"
+category: building
 excerpt_separator: <!--more-->
 ---
 

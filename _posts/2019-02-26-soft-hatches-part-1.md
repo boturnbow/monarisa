@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Going Soft on the Main Hatches - Part 1"
+category: building
 excerpt_separator: <!--more-->
 ---
 

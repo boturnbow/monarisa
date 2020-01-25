@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Inspection Hatches"
+category: building
 excerpt_separator: <!--more-->
 ---
 

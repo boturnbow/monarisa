@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Epoxy Coating the Insides of the Hulls"
+category: building
 excerpt_separator: <!--more-->
 ---
 

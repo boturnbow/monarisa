@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Adding the Cabin Sides"
+category: building
 excerpt_separator: <!--more-->
 ---
 

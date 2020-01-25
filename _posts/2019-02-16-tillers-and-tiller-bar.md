@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tillers and Tiller Bar"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fore Decks"
+category: building
 excerpt_separator: <!--more-->
 ---
 

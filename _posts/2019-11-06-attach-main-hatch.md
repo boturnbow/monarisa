@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Attach Main Hatch"
+category: building
 ---
 
 With the fiberglass on the coamings, it was time to install the fasteners for the main hatches. I installed the fabric side of the Lift the Dot fasteners into the hem of the hatch covers. It was a slow process with a punch and an Exacto knife but the offical tool is $80 - ha! I marked and overdrilled the holes and filled them with thickened epoxy.

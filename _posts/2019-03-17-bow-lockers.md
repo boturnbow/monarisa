@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Coamings and Hatches for the Bow Lockers"
+category: building
 excerpt_separator: <!--more-->
 ---
 

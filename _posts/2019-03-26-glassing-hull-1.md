@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Glassing the First Hull Side"
+category: building
 excerpt_separator: <!--more-->
 ---
 

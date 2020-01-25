@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Finishing the Hull Fillets"
+category: building
 excerpt_separator: <!--more-->
 ---
 

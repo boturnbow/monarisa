@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Back to Work!! Glassing the Decks"
+category: building
 ---
 
 I left *Mona Risa* in storage while I traveled to Ghana for the 2018-2019 winter. Once back in Helena I had some other priorities before boat work - **marriage** and then fixing up the garage and yard at my bride's house. The remodeled garage is a great boat shop and I also created a pad to park the boat trailer on when stored. But, unfortunately, all that work pushed boatbuilding back until September. Now the rush is on to beat the cold temps while working in an unheated garage.

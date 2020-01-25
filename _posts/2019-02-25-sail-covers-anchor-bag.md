@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sail Covers, Anchor Bag"
+category: building
 excerpt_separator: <!--more-->
 ---
 

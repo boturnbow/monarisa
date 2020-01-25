@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Flipping the Hulls"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wiring the Bulkheads In"
+category: building
 excerpt_separator: <!--more-->
 ---
 

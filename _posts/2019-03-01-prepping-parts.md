@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Prepping Parts"
+category: building
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cutting Plywood for Hulls"
+category: building
 excerpt_separator: <!--more-->
 ---
 

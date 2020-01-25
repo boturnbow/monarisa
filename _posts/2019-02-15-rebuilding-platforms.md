@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rebuilding Platforms"
+category: building
 excerpt_separator: <!--more-->
 ---
 
