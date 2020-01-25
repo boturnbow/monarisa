@@ -15,6 +15,7 @@ disqus:
     shortname: mona-risa
 
 header_pages:
+  - sitemap.md
   - about.md
 
 theme: minima
