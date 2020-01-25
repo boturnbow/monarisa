@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 .post-navigation {
   margin: 2em 0;
   // clearfix
-  &::after {
+  &:after {
     content: "";
     display: table;
     clear: both;
