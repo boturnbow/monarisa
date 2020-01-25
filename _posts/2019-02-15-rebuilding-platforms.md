@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Rebuilding Platforms"
+actual-date: August 2017
 category: building
-excerpt_separator: <!--more-->
 ---
-
-*Build Date: August 2017*
 
 In January, 2017 I "retired" from computer work. My plan was to get my house ready to sell or rent and then spend the summer on the boat. Of course, work on the house took longer than I thought and I hadn't finished house work until August. Where does summer go?!
 
