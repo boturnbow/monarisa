@@ -22,7 +22,7 @@ layout: default
       {%- if page.actual-date -%}
         <div>Actual Date: {{ page.actual-date }}</div>
       {%- endif -%}
-      {%- if page.categories -%}
+      {%- if page.categories != '' -%}
         <div>
         Category:
         {%- for category in page.categories -%}
