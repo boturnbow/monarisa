@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Epoxy Tips 'n' Hints"
+category: building
 ---
 
 I'm not presumptuous enough to think that I have discovered some unknown tricks for working with epoxy. I just want to gather in one place a few things I have learned from others. Maybe just so that I don't forget them! For more great epoxy tips, see:
