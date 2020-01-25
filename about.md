@@ -15,7 +15,7 @@ permalink: /about/
  * 2017 - Rebuilt some of the parts of the boats
  * 2018 - Decided to rebuild the entire boat but didn't get finished before winter
  * 2018 - 2019 - Spent the winter in Ghana working on another Tiki 21
- * 2019 - 2020 - Spent the winter finishing my rebuild
+ * 2019 - 2020 - Spent the winter in Montana finishing my rebuild
  * 2020 - The first splash for [*Mona Risa*]({% post_url 2019-04-05-name %}) (I hope!)
 
 ## Links
