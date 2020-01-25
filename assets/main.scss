@@ -10,3 +10,23 @@
 h1, h2, h3, h4, h5, h6 {
   color: orange;
 }
+
+.post-navigation {
+  margin: 3em 0;
+  .nav-links {
+    border-top: 1em;
+  }
+  .nav-previous {
+    float: left;
+  }
+  .nav-next {
+    float: right;
+    text-align: right;
+  }
+  span.nav-subtitle {
+    font-size: smaller;
+  }
+  span.nav-title {
+    font-weight: bold;
+  }
+}
