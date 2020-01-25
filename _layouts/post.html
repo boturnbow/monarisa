@@ -22,26 +22,37 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {% if page.next.url or page.previous.url %}
       <table>
         <tr>
           <td width="50%">
-            {% if page.previous.url %}
-              &laquo; Previous Post
-              <br><a href="{{page.previous.url}}">{{page.previous.title}}</a>
-            {% endif %}
           </td>
           <td width="50%" align="right">
-            {% if page.next.url %}
-              Next Post &raquo;
-              <br><a href="{{page.next.url}}">{{page.next.title}}</a>
-            {% endif %}
           </td>
         </tr>
       </table>
-    {% endif %}
 
   </div>
+
+  <div class="post-navigation">
+  	<div class="nav-links">
+      <div class="nav-previous">
+        {% if page.previous.url %}
+          <a href="{{page.previous.url}}">
+            <span class="nav-subtitle">&laquo; Previous Post</span>
+            <span class="nav-title">{{page.previous.title}}</span>
+          </a>
+        {% endif %}
+      </div>
+      <div class="nav-next">
+        {% if page.next.url %}
+          <a href="{{page.next.url}}">
+            <span class="nav-subtitle">Next Post &raquo;</span>
+            <span class="nav-title">{{page.previous.title}}</span>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+	</div>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
