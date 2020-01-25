@@ -3,8 +3,6 @@ layout: post
 title:  "Tiller Bar and Extension"
 ---
 
-goofus
-
 I needed to modify the tiller bar that I [built previously]({% post_url 2019-02-16-tillers-and-tiller-bar %}) because the newest tillers had more curvature to them and were thus closer together at the ends. The new tiller pins were located about 2" inboard of the previous holes.
 
 ![Pin Difference](/assets/images/tiller-bar-pin-diff.jpg)
