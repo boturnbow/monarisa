@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "Tillers and Tiller Bar"
-build-date: August 2017
-category:
-  - boat building
-  - ski joring
-tags: [hot, summer]
+actual-date: August 2017
+category: [ building, jousting ]
 ---
 
 I had broken one of the tillers and decided to rebuild them both as I had noticed that the bend in the tillers was not as curved as the plans call for. I used some clear pine and DWX epoxy so that I could finish them clear. Using the instructions in the plans I used weights to bend the tillers while gluing. I wish now that I had used a jig screwed to a piece of ply. I also wish that I had overbent the tillers a little. There was some snapback that decreased the curvature in the tillers.

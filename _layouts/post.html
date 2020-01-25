@@ -9,7 +9,7 @@ layout: default
       <div>
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        Written: {{ page.date | date: date_format }}
+        Written On: {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
         • {% for author in page.author %}
@@ -19,14 +19,14 @@ layout: default
         {% endfor %}
       {%- endif -%}
       </div>
-      {%- if page.build-date -%}
-        <div>Build Date: {{ page.build-date }}</div>
+      {%- if page.actual-date -%}
+        <div>Actual Date: {{ page.actual-date }}</div>
       {%- endif -%}
       {%- if page.categories -%}
         <div>
-        Category:&nbsp;
+        Category:
         {%- for category in page.categories -%}
-          <a href="/categories/#{{category|slugize}}">{{ category | capitalize }}</a>
+          &nbsp;<a href="/categories/#{{category}}">{{ category | capitalize }}</a>
           {%- unless forloop.last -%},{%- endunless -%}
         {%- endfor -%}
         </div>
