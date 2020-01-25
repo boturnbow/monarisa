@@ -17,7 +17,7 @@ As promised, Jerry had made sure that the trailer was ready for a long haul. The
 
 ## Launch
 
-Once home I was anxious to launch the boat, especially since for the first time ever I had rented a slip to keep the boat in. My neighbor and sailor, Rich, volunteered to help with the first assembly and launch. We spent a few hours at the ramp at Magpie Bay and had the boat in the water. I motored over to the slip at Kim's Marina and tied her up. I wanted to take her for a sail but I wasn't comfortable with the boat after assembly.
+Once home I was anxious to launch the boat, especially since for the first time ever I had rented a slip to keep the boat in. My neighbor and sailor, Rich, volunteered to help with the first assembly and launch. We spent a few hours at the ramp at Magpie Bay on Canyon Ferry Resorvoir and had the boat in the water. I motored over to the slip at Kim's Marina and tied her up. I wanted to take her for a sail but I wasn't comfortable with the boat after assembly.
 
 During assembly, some things were looking and sounding bad. I heard some creaks and cracks from the platforms and noticed some rotten areas. On my next visit to the boat I wanted to look at the platforms closely so I removed the outboard. Good thing that I did! I was standing on the center platform looking at some bad spots when I heard a big **crack**! The center platform fell in the water just as I jumped onto the cabin. I retrieved it and found that the aft end had cracked apart where it sat on the beam.
 
@@ -25,6 +25,6 @@ I took the platform home with plans to repair it. I left the boat in the water t
 
 ## Retrieval
 
-I pulled the boat out of the water in October with lots of help from Matt. We tipped one of the hulls on its side in the water while transitioning to the travel beams. This confirmed that I wanted to change the trailer to have telescoping arms so that travel beams weren't necessary. I put the boat away for the winter and spent time studying the plans. There was a lot of work to do! And more that I didn't even know about yet.
+I pulled the boat out of the water in October with lots of help from my son Matt. We tipped one of the hulls on its side in the water while transitioning to the travel beams. This confirmed that I wanted to change the trailer to have telescoping arms so that travel beams weren't necessary. I put the boat away for the winter and spent time studying the plans. There was a lot of work to do! And more that I didn't even know about yet.
 
 So, 2016 was a bust for sailing. But at least the boat had been in the water. I anticipated rebuilding the platforms in the spring of 2017 and then setting sail. HAHA!!
