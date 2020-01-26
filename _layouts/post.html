@@ -35,7 +35,7 @@ layout: default
         <div>
         Tags:
         {%- for tag in page.tags -%}
-          &nbsp;<a href="/sitemap/#tag-{{tag}}">{{ tag }}</a>
+          &nbsp;<a href="/tags/#{{tag}}">{{ tag }}</a>
           {%- unless forloop.last -%},{%- endunless -%}
         {%- endfor -%}
         </div>
