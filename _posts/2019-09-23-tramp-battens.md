@@ -2,7 +2,7 @@
 layout: post
 title:  "Trampoline Battens"
 category: building
-tag: [ trampoline ]
+tag: [ trampolines ]
 ---
 
 I glued and screwed the trampoline battens to the fore decks after drilling the lacing holes to fit the trampolines included with the original boat. To finish, I added cosmetic fillets and filled the screw holes. I realized the **day after** glue-up that I should have made the battens out of hard wood. Doh! Hopefully I will get a few years out of these before I have to replace them. I also used softwood battens on the fore platform when I built it a couple of years ago, so I guess I will be replacing all of them at the same time.

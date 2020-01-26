@@ -3,7 +3,7 @@ layout: post
 title:  "Glassing the Platforms"
 actual-date: October 2018
 category: building
-tag: [ platforms, epoxy, fiberglass ]
+tag: [ platforms, trampolines, epoxy, fiberglass ]
 ---
 
 The platforms I built the previous summer had spent a few months in the sun while being stored on the trailer. And the epoxy finish had checked badly. I thought the UV-stable epoxy from Duckworks had failed. But some research told me that Douglas Fir plywood always checks and should be covered in fiberglass.
