@@ -18,10 +18,10 @@ title: Tags
   {% capture tag_name %}{{ tag[0] }}{% endcapture %}
   <a name="{{ tag_name }}"></a>
   <h4>{{ tag_name }}</h4>
-  <ul>
+  <ol>
     {% for post in site.tags[tag_name] %}
       <li><a href="{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
-  </ul>
-  <small><a href="#tagslist">&uarr; List of tags</a></small>
+  </ol>
+  <small><a href="#tagslist">To list of tags at top</a></small>
 {% endfor %}
