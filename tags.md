@@ -5,21 +5,21 @@ title: Tags
 ---
 
 <a name="tagslist"></a>
-## Post Tags
 
 <ul>
-{% for tag in site.tags %}
+{%- assign sorted_tags = site.tags | sort -%}
+{% for tag in sorted_tags %}
   {% capture tag_name %}{{ tag[0] }}{% endcapture %}
   <li><a href="#{{ tag_name }}">{{ tag_name }}</a></li>
 {% endfor %}
 </ul>
 
-{% for tag in site.tags %}
+{% for tag in sorted_tags %}
   {% capture tag_name %}{{ tag[0] }}{% endcapture %}
   <a name="{{ tag_name }}"></a>
-  <h3>{{ tag_name }}</h3>
+  <h4>{{ tag_name }}</h4>
   <ul>
-    {% for post in site.tags[tag_name] %}
+    {% for post in sorted_tags[tag_name] %}
       <li><a href="{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
   </ul>
