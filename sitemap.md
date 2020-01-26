@@ -6,7 +6,7 @@ title: Sitemap
 
 ## Starting Out
 
-If you're a linear person and want to know how this whole drama started, then check out the first two posts to read about [buying a Tiki 21]({% post_url 2019-01-15-every-boat-story-is-a-drama %}) and [then having it fall apart]({% post_url 2019-01-28-the-journey-and-launch %}). After that was a partial rebuild and then a full rebuild which you can find below.
+If you're a linear person and want to know how this whole drama started, then check out the first two posts to read about [buying a Tiki 21]({% post_url 2019-01-15-every-boat-story-is-a-drama %}) and [then having it fall apart]({% post_url 2019-01-28-the-journey-and-launch %}). After that was a partial rebuild and **then** a full rebuild both detailed below.
 
 ## Post Categories
 
