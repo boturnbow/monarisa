@@ -16,4 +16,4 @@ The fore hatches on the boat had not been covered in fiberglass. That's accordin
 
 ![Painted Hatches](/assets/images/forehatches-painted.jpg)
 
-**Note:** After I built the new hulls, I built all [new fore hatches]({ post_url 2019-03-17-bow-lockers }) to match. So this bit of work was just extra fiberglassing practice!
+**Note:** After I built the new hulls, I built all [new fore hatches]({% post_url 2019-03-17-bow-lockers %}) to match. So this bit of work was just extra fiberglassing practice!
