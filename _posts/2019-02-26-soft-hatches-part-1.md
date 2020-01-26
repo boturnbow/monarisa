@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going Soft on the Main Hatches - Part 1"
+title:  "Going Soft on the Main Hatches"
 actual-date: May 2018
 category: building
 tag: [ hatches, sewing ]

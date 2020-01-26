@@ -3,6 +3,7 @@ layout: post
 title:  "Standing Rigging - Part 1"
 actual-date: December 2017
 category: building
+tag: [ rigging, dyneema ]
 ---
 
 The original rigging that came with the boat was stainless wire rope with with pressed-on fittings. There was a lot of rust on the fittings, but otherwise it seemed ok. However, I have an innate distrust of wire rope fittings - you can't see the condition of the wire rope inside the fitting. I had also decided to make the mast 6" longer than the original so I probably needed new rigging instead of just extending all the lanyards.

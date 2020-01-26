@@ -3,7 +3,7 @@ layout: post
 title:  "Rebuilding Platforms"
 actual-date: August 2017
 category: building
-tag: [ epoxy, platforms ]
+tag: [ epoxy, platforms, anchor ]
 ---
 
 In January, 2017 I "retired" from computer work. My plan was to get my house ready to sell or rent and then spend the summer on the boat. Of course, work on the house took longer than I thought and I hadn't finished house work until August. Where does summer go?!
@@ -22,4 +22,4 @@ I also rebuilt the fore platform. This boat came with two small trampolines with
 
 ![Anchor Handling](/assets/images/anchorhandling.jpg)
 
-**Update:** After the platforms had been in the sun on the trailer for most of a year the platforms had checked and the epoxy cracked. I learned that Douglas Fir will always check and should be covered in fiberglass to prevent that. A later post covers adding the fiberglass.
+**Update:** After the platforms had been in the sun on the trailer for most of a year the platforms had checked and the epoxy cracked. I learned that Douglas Fir will always check and should be covered in fiberglass to prevent that. A later post covers [adding the fiberglass]({% post_url 2019-03-22-glass-platforms %}).
