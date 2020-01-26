@@ -3,6 +3,7 @@ layout: post
 title:  "Cutting Plywood for Hulls"
 actual-date: June 2018
 category: building
+tag: [ hulls ]
 ---
 
 Once my 1/4" marine plywood arrived I set to work cutting the pieces for the hull sides, butt blocks, and bulkheads. I did a lot of tedious measuring and re-measuring before cutting the first pieces. And then used those pieces as templates for the rest of the hull sides. Afterwards, I clamped the pieces together and used a belt sander to make them uniform. Same story with the bulkheads. It was hard to cut the holes in the bullheads and end up with a perfect circle, but it was pretty close.

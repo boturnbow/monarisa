@@ -3,6 +3,7 @@ layout: post
 title:  "Sail Covers, Anchor Bag"
 actual-date: April 2018
 category: building
+tag: [ sails, anchor, sewing ]
 ---
 
 While the temperature was too cold for epoxy work out in the garage, I did some sewing. I wanted sail covers to protect the sails while anchored out. My mainsail does not have a zippered luff so there was no way to stow it while at anchor. I made the sail covers out of nylon and used webbing and buckles for the closures instead of zippers.

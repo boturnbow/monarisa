@@ -3,6 +3,7 @@ layout: post
 title:  "Going Soft on the Main Hatches - Part 1"
 actual-date: May 2018
 category: building
+tag: [ hatches, sewing ]
 ---
 
 The main hatches that came with the boat needed a lot of repair work or needed to be rebuilt. Also, the more I used the hatches the more I disliked the original design. So I set about looking for what others had done. I found one-piece hatches that slid forward on rails. I liked that - except for the rails across the cabin top. I also liked hatches that opened outward on rope hinges. Usually they had a strut or stick to prop them open. I liked that design too, but it didn't allow for partial opening.

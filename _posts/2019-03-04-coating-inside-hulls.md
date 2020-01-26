@@ -3,6 +3,7 @@ layout: post
 title:  "Epoxy Coating the Insides of the Hulls"
 actual-date: June 2018
 category: building
+tag: [ hulls, epoxy ]
 ---
 
 I tried something new to me when coating the insides of the hulls and the bulkheads with epoxy. I wanted a lighter feel inside without painting so I added some white pigment to the epoxy resin. I used 4 ounces of pigment per gallon of epoxy. The effect is really subtle but increases with each coat. I was really happy with the outcome. Though the effect is subtle it's very easy to tell the difference between pigment coated plywood and plywood coated without pigment. The ply without pigment is much darker.

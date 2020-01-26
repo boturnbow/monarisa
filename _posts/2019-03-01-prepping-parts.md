@@ -3,6 +3,7 @@ layout: post
 title:  "Prepping Parts"
 actual-date: May 2018
 category: building
+tag: [ hulls ]
 ---
 
 I had a burst of enthusiasm after making the decision to rebuild the hulls. So I didn't wait for the marine plywood order to arrive. I bought some 3/4" ash and started milling parts for the sheerstringers, keels, sheerstringer doublers, beam cleats, and beam blocks. I scarfed shorter pieces together for the sheerstringers and keels. The building plans call for two different kinds of scarfs for these pieces as you can see in the photos.

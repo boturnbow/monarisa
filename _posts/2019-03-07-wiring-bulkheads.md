@@ -3,6 +3,7 @@ layout: post
 title:  "Wiring the Bulkheads In"
 actual-date: June 2018
 category: building
+tag: [ hulls, stitch and glue ]
 ---
 
 The building plans give a specific order for wiring in the bulkheads. I followed that order. It was difficult to get a bulkhead aligned and tightened the first time. The best technique was to insert a bulkhead loosely and then insert the next bulkhead before going back and aligning and tightening the first. There was a **lot** of tension in the hull sides that wanted to shoot the bulkheads up so it was important to angle the wires for a downwards pull. The stern was hard to pull together and required pipe clamps and patience. But in the end everything aligned correctly.

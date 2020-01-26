@@ -3,6 +3,7 @@ layout: post
 title:  "Deciding to Rebuild the Hulls"
 actual-date: May 2018
 category: building
+tag: [ hulls ]
 ---
 
 At this point in the rebuild, I have become very familiar with the Tiki 21 plans. And I have spent a lot of time crawling around in the hulls. And I have started to have some serious concerns:
