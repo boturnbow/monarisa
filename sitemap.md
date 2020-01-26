@@ -15,9 +15,9 @@ If you're a linear person and want to know how this whole drama started, then ch
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <a name="{{ category_name }}"></a>
   <h3>{{ category_name | capitalize }}</h3>
-  <ul>
+  <ol>
     {% for post in site.categories[category_name] %}
       <li><a href="{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
-  </ul>
+  </ol>
 {% endfor %}
