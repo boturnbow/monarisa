@@ -4,7 +4,7 @@ permalink: /tags/
 title: Tags
 ---
 
-<a name="#tagslist"></a>
+<a name="tagslist"></a>
 ## Post Tags
 
 <ul>
