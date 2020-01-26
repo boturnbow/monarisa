@@ -6,6 +6,12 @@ title: Tags
 
 ## Post Tags
 
+<ul>
+{% for tag in site.tags %}
+  <li>{{ tag[0] }}</li>
+{% endfor %}
+</ul>
+
 {% for tag in site.tags %}
   {% capture tag_name %}{{ tag | first }}{% endcapture %}
   <a name="{{ tag_name | slugize }}"></a>
