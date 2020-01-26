@@ -19,7 +19,7 @@ title: Tags
   <a name="{{ tag_name }}"></a>
   <h4>{{ tag_name }}</h4>
   <ul>
-    {% for post in sorted_tags[tag_name] %}
+    {% for post in site.tags[tag_name] %}
       <li><a href="{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
   </ul>
