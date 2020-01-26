@@ -10,7 +10,8 @@ If you're a linear person and want to know how this whole drama started, then ch
 
 ## Post Categories
 
-{% for category in site.categories %}
+{%- assign sorted_categories = site.categories | sort -%}
+{% for category in sorted_categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <a name="{{ category_name }}"></a>
   <h3>{{ category_name | capitalize }}</h3>
