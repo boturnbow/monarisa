@@ -3,6 +3,7 @@ layout: post
 title:  "Fore Decks"
 actual-date: September 2018
 category: building
+tag: [ decks ]
 ---
 
 The fore decks used the same process as the rear decks - cut mortises in stringers to fit bulkheads, attach center stringer, mark lateral stringers, and glue laterals.

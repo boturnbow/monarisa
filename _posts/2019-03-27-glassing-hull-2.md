@@ -3,6 +3,7 @@ layout: post
 title:  "Glassing the Rest of the Hull Sides"
 actual-date: October 2018
 category: building
+tag: [ hulls, fiberglass ]
 ---
 
 Since the first hull side went so well I tackled the next three hullsides quickly. Once again I overlapped the keel and skeg so that the bottom would be well protected. The final overlap will be on the inside of the hull (when they are upright) so that the outside will have a smoother appearance.

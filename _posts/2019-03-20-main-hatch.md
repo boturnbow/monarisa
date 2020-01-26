@@ -3,6 +3,7 @@ layout: post
 title:  "Main Hatch - Coamings and Rails"
 actual-date: September 2018
 category: building
+tag: [ hatches, seats ]
 ---
 
 The main hatch coamings were built according to plans, but using 3/8" ply and 3/4" stock. I also added rails to the insides of the coamings to support the soft hatch battens and a soft seat.

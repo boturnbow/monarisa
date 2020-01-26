@@ -3,6 +3,7 @@ layout: post
 title:  "Starting the Hull Fillets"
 actual-date: July 2018
 category: building
+tag: [ hulls, fillets ]
 ---
 
 I spent some time stringing lines and checking the alignment of the hulls. They didn't line up perfectly, but with nudges and twists on the wires I could get things lined up. I checked my alignment before I started filleting each hull section and the hulls turned out straight.
