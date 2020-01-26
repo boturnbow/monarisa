@@ -12,7 +12,7 @@ If you're a linear person and want to know how this whole drama started, then ch
 
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <a name="{{ category_name | slugize }}"></a>
+  <a name="{{ category_name }}"></a>
   <h3>{{ category_name | capitalize }}</h3>
   <ul>
     {% for post in site.categories[category_name] %}

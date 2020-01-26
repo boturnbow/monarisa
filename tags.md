@@ -8,12 +8,13 @@ title: Tags
 
 <ul>
 {% for tag in site.tags %}
-  <li>{{ tag[0] }}</li>
+  {% capture tag_name %}{{ tag[0] }}{% endcapture %}
+  <li><a href="#{{ tag_name }}">{{ tag_name }}</a></li>
 {% endfor %}
 </ul>
 
 {% for tag in site.tags %}
-  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+  {% capture tag_name %}{{ tag[0] }}{% endcapture %}
   <a name="{{ tag_name | slugize }}"></a>
   <h3>{{ tag_name }}</h3>
   <ul>
