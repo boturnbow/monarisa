@@ -23,5 +23,5 @@ title: Tags
       <li><a href="{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
   </ul>
-  <a href="#tagslist">Back to list of tags</a>
+  <small><a href="#tagslist">&uarr; List of tags</a></small>
 {% endfor %}
