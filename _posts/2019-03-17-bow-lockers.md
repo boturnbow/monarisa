@@ -32,7 +32,7 @@ To get a non-slip surface for the decks I have been adding a non-slip powder use
 
 I painted the hatches with oil-based Rustoleum Topside paint. It seems to be a good paint but was $18/quart and was a brighter white than I wanted. I also didn't think the oil-based cleanup would be very practical if I wanted to touch up paint while traveling. I think I'll switch back to a latex paint for the hulls.
 
-![Gasket Shape](/assets/images/locker-paint.jpg)
+![Gasket Shape](/assets/images/locker-paint.jpeg)
 
 I doubled over strips of old bicycle tubes for the gaskets.
 
