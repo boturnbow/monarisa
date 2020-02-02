@@ -1,8 +1,10 @@
 ---
 layout: page
 permalink: /tags/
-title: Tags
+title: Post Tags
 ---
+
+Post tags are generally a part of the boat or a construction technique.
 
 <a name="tagslist"></a>
 
