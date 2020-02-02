@@ -12,7 +12,7 @@ If you're a linear person and want to know how this whole drama started, then ch
 
 I separated blog posts into broad "categories" to help sort them. Categories are roughly building versus sailing. With hopefully a lot more sailing posts to come!
 
-Blog posts my also have tags. Tags are generally a part of the boat or a construction technique. **Check out the [list of tags](/tags).**
+Blog posts may also have tags. Tags are generally a part of the boat or a construction technique. **Check out the [list of tags](/tags).**
 
 {%- assign sorted_categories = site.categories | sort -%}
 {% for category in sorted_categories %}
