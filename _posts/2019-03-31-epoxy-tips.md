@@ -19,10 +19,11 @@ I'm not presumptuous enough to think that I have discovered some unknown tricks 
 * Auto body scrapers cut to different sizes for fillets
 * Big auto body scrapers to squeegee around epoxy
 * Thin plastic cut with pinking shears for laminating
-* 1/3 of foam roller cover mounted on a stick for smoothing epoxy coats
 * Ziploc bag with the corner cut out for piping fillet mix into corners
 * Chip brushes
 * Small foam rollers with a rounded, foam tip
+* 1/3 of foam roller cover mounted on a stick for smoothing epoxy coats
+* Heat gun
 * Denatured alcohol for cleanup; acetone if the epoxy is cured
 
 ## Fillers
@@ -41,7 +42,7 @@ When the temps stayed below 50° I created a "tent" out of tarps inside my garag
 
 ## Techniques
 
-I got some really good results with epoxy coating on flat and vertical surfaces. My best tools were a small foam roller with a foam tip. That allowed me to get into lots of corners. After rolling, I came back with a partial foam roller mounted on a stick to "tip" the rollers stippling away.
+I got some really good results with epoxy coating on flat and vertical surfaces. My best tools were a small foam roller with a foam tip. That allowed me to get into lots of corners. After rolling, I came back with a partial foam roller mounted on a stick to "tip" the roller's stippling away. I was able to get the smoothest results by tipping while heating the surface with a heat gun.
 
 I tried pulling all my stitching wires instead of just cutting them flush. The easiest way to get the wires out is to coat them with wax before inserting them. Usually these wires would pull right out later. However, if a wire was stuck I would heat it with a torch and then pull it out.
 
@@ -56,6 +57,8 @@ I started rebuilding platforms with West System epoxy left over from my son's bo
 ![Fillet Tool](/assets/images/epoxy-beam-fillet.jpg)
 
 ![Epoxy Coating Tools](/assets/images/epoxy-coating-tools.jpg)
+
+![Epoxy Coating](/assets/images/epoxy-coating.jpeg)
 
 ![Wood Flour and Colloidal Silica](/assets/images/epoxy-fillers.jpg)
 
