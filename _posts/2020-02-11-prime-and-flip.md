@@ -13,7 +13,7 @@ What a thrill to actually put some paint on the hulls!! Even if it was only prim
 
 ![Decks Primed](/assets/images/prime-2.jpeg)
 
-After a little curing time, with the assistance of some good helpers and old tires we rolled the hulls over. Now it's time to finish the bottoms.
+After a little curing time, and with the assistance of some good helpers and old tires we rolled the hulls over. Now it's time to finish the bottoms.
 
 ![Flipped](/assets/images/prime-flip-1.jpeg)
 
