@@ -2,7 +2,7 @@
 layout: post
 title:  "Prime the Decks and Flip"
 category: building
-tag: [ painting, cabins, decks ]
+tag: [ paint, cabins, decks ]
 ---
 
 What a thrill to actually put some paint on the hulls!! Even if it was only primer. I prepped the cabin sides with light sanding, but didn't put any sandpaper to the nonskid on the decks. I washed everything well with hot water and vinegar to remove any amine blush. And then I rolled on a latex primer and was happy with coverage after two coats. I masked off the beam sockets and the tops of the "luggage racks" so that I can glue on some rubber pads there later.
