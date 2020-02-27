@@ -29,7 +29,7 @@ I glued pieces of 1/2" pipe onto the skegs as the next test and was happy with t
 
 ![Skeg Protection](/assets/images/keel-protection-skeg-2.jpg)
 
-It turned out to be a big challenge to be get the plastic pipe fitted to the keels. I started out using 1/2" pipe because it fitted the bows well. However I just couldn't get it to lie straight along the bottom. I tried warming it overnight while clamped around straight sticks, but that didn't help either. And I needed something that would lie down pretty well since I was using masking tape to clamp.
+It turned out to be a big challenge to get the plastic pipe fitted to the keels. I started out using 1/2" pipe because it fitted the bows well. However I just couldn't get it to lie straight along the bottom. I tried warming it overnight while clamped around straight sticks, but that didn't help either. And I needed something that would lie down pretty well since I was using masking tape to clamp.
 
 ![Straightening Pipe](/assets/images/keel-protection-pipe-1.jpg)
 
