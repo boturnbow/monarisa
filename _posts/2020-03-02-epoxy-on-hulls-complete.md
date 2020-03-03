@@ -21,6 +21,6 @@ However, I could see a few problems. Now, I'm not shooting for a perfect finish 
 
 ![Epoxy Coating Complete](/assets/images/hulls-complete.jpg)
 
-As I cleaned my epoxy tools, I realized that almost all the epoxy work on the boat was done - fingers crossed! It seemed momentous. I wondered if Hallmark made an appropriate card: "Congratulations on Your Last Epoxy Batch" written over a picture of used nitrile gloves.
+As I cleaned my epoxy tools, I realized that almost all the epoxy work on the boat was done - fingers crossed! It seemed momentous. I wondered if Hallmark made an appropriate card: "Congratulations on Your Last Epoxy Batch" written over a picture of dirty nitrile gloves.
 
 Now it's time to prime and paint!
