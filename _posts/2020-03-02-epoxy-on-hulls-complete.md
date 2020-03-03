@@ -7,11 +7,11 @@ tag: [ hulls, epoxy ]
 
 After getting the keel protected, it was time to finish filling in the weave on the rest of the hulls. I had purposely stopped short of completely filling in the weave when I originally glassed the hulls. I knew that while working on the decks I would foul the hulls with some epoxy drips and splashes so I held off on the final epoxy coats.
 
-First, an epoxy note. I needed more epoxy and decided when I ordered to try a faster hardener to help with cure times in the cold. I talked with the folks at Raka and decided on mixing their fast and slow hardeners to get a faster cure time while still having a decent pot life. I was very happy with the work life and the cure sped up from 12-16 hours to 6-8. So I saved  a lot on diesel because I didn't have to run my garage heater longer.
+First, an epoxy note. I needed more epoxy a couple of months ago and decided when I ordered to try a faster hardener to help with cure times in the cold. I talked with the folks at Raka and decided on mixing their fast and slow hardeners to get a faster cure time while still having a decent pot life. I have been happy with the pot life and cure time sped up from 12-16 hours to 6-8. So I saved on diesel because I didn't have to run my garage heater longer.
 
 ![Mixing Fast and Slow Hardeners](/assets/images/hulls-complete-epoxy.jpg)
 
-Here's my tools for a smooth finish when coating with epoxy - the old roll-n-tip.
+Here's my tools for a smooth finish when coating with epoxy - the old roll-n-tip with a little heat.
 
 ![Tools for a Smooth Finish](/assets/images/hulls-complete-tools.jpg)
 
