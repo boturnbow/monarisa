@@ -8,7 +8,7 @@ title: Sitemap
 
 If you're a linear person and want to know how this whole drama started, then check out the first two posts to read about [buying a Tiki 21]({% post_url 2019-01-15-every-boat-story-is-a-drama %}) and [then having it fall apart]({% post_url 2019-01-28-the-journey-and-launch %}). After that was a partial rebuild and **then** a full rebuild both detailed below.
 
-[Why Mona Risa?]({% post_url 2019-04-05-name %})
+[Why "Mona Risa"?]({% post_url 2019-04-05-name %})
 
 I separated blog posts into broad *categories* to help sort them. Categories are roughly building versus sailing. With, hopefully, a lot more sailing posts to come! Categories are listed below.
 
