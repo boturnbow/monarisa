@@ -23,8 +23,9 @@ Blog posts may also have *tags*. Tags are generally a part of the boat or a cons
   <h3>{{ category_name | capitalize }}</h3>
   <ol>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- assign post_date = post.actual-date | default: post.date -%}
     {% for post in site.categories[category_name] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a>, {{ post.date | date: date_format }}</li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post_date | date: date_format }}</small></li>
     {% endfor %}
   </ol>
 {% endfor %}
