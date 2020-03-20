@@ -5,7 +5,7 @@ category: building
 tag: [ hulls, paint ]
 ---
 
-I had primed earlier so painting the decks and cabins was quick and easy. I put on four coats of paint and stopped before the fifth worried that I would fill in too much of the non-skid texture.
+I had primed earlier, so painting the decks and cabins was quick and easy. I put on four coats of paint and stopped before the fifth worried that I would fill in too much of the non-skid texture.
 
 ![Painting Done](/assets/images/paint-top-1.jpg)
 
