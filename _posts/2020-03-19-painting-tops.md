@@ -2,7 +2,7 @@
 layout: post
 title:  "Painting the Tops"
 category: building
-tag: [ hulls, paint ]
+tag: [ cabins, decks, paint ]
 ---
 
 I had primed earlier, so painting the decks and cabins was quick and easy. I put on four coats of paint and stopped before the fifth worried that I would fill in too much of the non-skid texture.
