@@ -18,7 +18,7 @@ Before priming I had masked off the areas where I wanted to add padding to the b
 
 I also added a piece of inner tube to the top of each luggage rack for some protection and grip there.
 
-![Inner Tube on Luggage Rack](/assets/images/beam-padding-luggage`.jpg)
+![Inner Tube on Luggage Rack](/assets/images/beam-padding-luggage.jpg)
 
 ## Attaching Fore Hatches
 
