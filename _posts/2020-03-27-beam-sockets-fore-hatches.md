@@ -22,7 +22,7 @@ I also added a piece of inner tube to the top of each luggage rack for some prot
 
 ## Attaching Fore Hatches
 
-The fore hatches are attached with rope hinges that are different than the rudder rope hinges because the rope doesn't go through individual holes. I think these are easier to build and align, but I had to think about securing the ends more. In Ghana I used similar hatch hinges and started and finished each hinge with clove hitches. Those seemed to work loose over time so I just used half hitches this time. We'll see what happens. I'm leaving the tails long for now in case I need to re-think it.
+The fore hatches are attached with rope hinges that are different than the rudder rope hinges because the rope doesn't go through individual holes. I think these are easier to build and align, but I had to think about securing the ends. In Ghana I used similar hatch hinges and started and finished each hinge with clove hitches. Those seemed to work loose over time so I just used half hitches this time. We'll see what happens. I'm leaving the tails long for now in case I need to re-work it.
 
 Here are the specifics for my future reference:
 
@@ -39,6 +39,6 @@ Here are the specifics for my future reference:
 
 ## Bow Light
 
-I installed the base for my Navisafe [bow light](https://www.duckworks.com/product-p/nav-340.htm).
+I also installed the base for my Navisafe [bow light](https://www.duckworks.com/product-p/nav-340.htm) to the pad that I previously glued on.
 
 ![Painting Done](/assets/images/bow-light.jpg)
