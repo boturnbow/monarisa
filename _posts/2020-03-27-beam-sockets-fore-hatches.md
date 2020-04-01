@@ -1,8 +1,10 @@
 ---
-title:  "Beam Sockets and Fore Hatches"
+title:  "Padding Beam Sockets and Attaching Fore Hatches"
 category: building
 tag: [ decks, beams, hatches ]
 ---
+
+When the paint had cured for a few days I put a couple of coats of wax on the parts of the decks and cabins that weren't non-skid. Then I got to work on finishing things up.
 
 ## Padding the Beam Sockets
 
