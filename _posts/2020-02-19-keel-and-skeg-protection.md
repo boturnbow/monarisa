@@ -2,7 +2,7 @@
 layout: post
 title:  "Keel and Skeg Protection"
 category: building
-tag: [ hulls, epoxy ]
+tag: [ hulls, keel, epoxy ]
 ---
 
 I coated the keels with graphite to add some protection but also wanted to add something more substantial. The Wharram plans call for a metal strip on the keel and skeg. It is also common to glue a strip of sacrificial hardwood to the keel onto the fiberglass.
