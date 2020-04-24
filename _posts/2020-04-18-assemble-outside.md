@@ -4,7 +4,7 @@ category: building
 tag: [ hulls, beams, platforms ]
 ---
 
-Rachel and I moved the hulls out of the garage and onto the patio using some scrap metal roofing to roll across the gravel and grass. It was great see her out in the sun!
+Rachel and I moved the hulls out of the garage and onto the patio using some scrap metal roofing to roll across the gravel and grass. It was great see her out in the sun! And the boat, too LOL
 
 ![Rolling Over Gravel](/assets/images/assembly-rolling.jpeg)
 
@@ -21,5 +21,7 @@ Next were the beam lashings. I started each lashing with a bowline and then meas
 ![Beam Lashing Turns Complete](/assets/images/assembly-lashing-2.jpeg)
 
 ![Beam Lashing Tied Off](/assets/images/assembly-lashing-3.jpeg)
+
+Lastly, I lashed the trampolines into place and had a pretty good looking catamaran sitting on the patio.
 
 ![Assembly Complete](/assets/images/assembly-complete.jpeg)
