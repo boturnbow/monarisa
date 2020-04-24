@@ -22,6 +22,16 @@ Next were the beam lashings. I started each lashing with a bowline and then meas
 
 ![Beam Lashing Tied Off](/assets/images/assembly-lashing-3.jpeg)
 
-Lastly, I lashed the trampolines into place and had a pretty good looking catamaran sitting on the patio.
+Lastly, I lashed the trampolines into place. Here's my procedure so that I remember:
+
+ * Trampolines stay lashed to the fore platform.
+ * Lash the outer edges first, starting with a stopper knot at the aft hole on the hull batten.
+ * Lash the aft edges to the center beam next, starting with a stopper knot in the outer most hole on the center beam.
+ * Lash to the fore beam last, starting with a stopper knot in the innermost hole on the fore beam.
+ * Finish each lashing with with a round turn and a few half hitches.
+
+add pic
+
+After that, I had a pretty good looking catamaran sitting on the patio.
 
 ![Assembly Complete](/assets/images/assembly-complete.jpeg)

@@ -26,7 +26,7 @@ The fore hatches are attached with rope hinges that are different than the rudde
 
 Here are the specifics for my future reference:
 
- * line is 2.2mm Dyneema
+ * line is 2.5mm Dyneema
  * stevedore knot tied in bitter end and then half-hitched around deck half of hinge
  * six figure eights for the hinge
  * finished with two half-hitches around deck half of hinge and then overhand stopper as tight as I could
