@@ -4,6 +4,10 @@ category: building
 tag: [ hulls, beams, platforms, dyneema ]
 ---
 
+# Coronavirus Update
+
+> Get the [latest information from the CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html).
+
 Rachel and I moved the hulls out of the garage and onto the patio using some scrap metal roofing to roll across the gravel and grass. It was great see her out in the sun! And the boat, too LOL
 
 ![Rolling Over Gravel](/assets/images/assembly-rolling.jpeg)
