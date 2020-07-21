@@ -8,7 +8,7 @@ Rachel and I moved the hulls out of the garage and onto the patio using some scr
 
 ![Rolling Over Gravel](/assets/images/assembly-rolling.jpeg)
 
-Before lashing on the beams I needed to attach the dolphin striker. I'm using 1/4" Dyneema for the dolphin stay and 4mm double braid for the lanyards. It took 16 feet of rope to make four turns for each lanyard. I marked the center of the stay by sewing through a piece of twine.
+Before lashing on the beams I needed to attach the dolphin striker. I'm using 1/4" Dyneema for the dolphin stay and 4mm double braid for the lanyards. It took 16 feet of rope to make four turns for each lanyard. I marked the center of the stay by sewing through a piece of twine and then sewed a leather sleeve over that to hold the line tight in the dolphin striker.
 
 ![Dolphin Stay Lashings](/assets/images/assembly-dolphin-1.jpeg)
 
@@ -24,14 +24,14 @@ Next were the beam lashings. I started each lashing with a bowline and then meas
 
 Lastly, I lashed the trampolines into place. Here's my procedure so that I remember:
 
- * Trampolines stay lashed to the fore platform.
+ * Trampolines stay lashed to the fore platform along their inner edges.
  * Lash the outer edges first, starting with a stopper knot at the aft hole on the hull batten.
  * Lash the aft edges to the center beam next, starting with a stopper knot in the outer most hole on the center beam.
  * Lash to the fore beam last, starting with a stopper knot in the innermost hole on the fore beam.
  * Finish each lashing with with a round turn and a few half hitches.
 
-add pic
+And after that, I had a pretty good looking catamaran sitting on the patio.
 
-After that, I had a pretty good looking catamaran sitting on the patio.
+![Assembly Complete](/assets/images/assembly-complete-1.jpeg)
 
-![Assembly Complete](/assets/images/assembly-complete.jpeg)
+![Assembly Complete](/assets/images/assembly-complete-2.jpeg)
