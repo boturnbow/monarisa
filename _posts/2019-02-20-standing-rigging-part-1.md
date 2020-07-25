@@ -13,7 +13,7 @@ I had noticed several Wharram people replacing wire-rope rigging with Dyneema an
 * Dyneema of the same size is far stronger than wire rope.
 * Stretch characteristics are different. So Dyneema should be sized according to stretch not strength when replacing wire rope.
 * Minimal "creep" will occur over the life of the line.
-* "Construction stretch" will occur after splicing and should be removed by loading up the lines after splicing. You also need to account for the stretch and make the line shorter than the size required when making the splices.
+* "Construction stretch" will occur after splicing and should be removed by loading up the lines after splicing.
 * Dyneema can crush a thimble under load so use closed thimbles or sailmakers thimbles.
 * Dyneema needs needs curves with a radius 5 times the line diameter to maintain strength.
 * Predicted life span is 5-10 years.
