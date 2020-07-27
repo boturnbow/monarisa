@@ -16,11 +16,11 @@ At the mast base, I used blocks and horn cleats for the halyards. The blocks are
 
 ![Downhaul](/assets/images/running-downhaul.jpeg)
 
-For the mainsheet, I used the standard Wharram 5:1 arrangement with the optional traveler setup. The traveler line has a Figure 8 Double Loop in each end. One of the loops is used to attach the traveler to the sterns with soft shackles. Blocks for the traveler control line are tied in to the other loop. The control line is attached in the middle to a block using an [Alpine Butterfly](https://www.youtube.com/watch?v=aKdfXCI9rEo). The line runs through the control blocks to cam cleats on the aft beam.
+For the mainsheet, I used the standard Wharram 4:1 arrangement with the optional traveler setup. The traveler line has a Figure 8 Double Loop in each end. One of the loops is used to attach the traveler to the sterns with soft shackles. Blocks for the traveler control line are tied in to the other loop. The control line is attached in the middle to a block using an [Alpine Butterfly](https://www.youtube.com/watch?v=aKdfXCI9rEo). The line runs through the control blocks to cam cleats on the aft beam.
 
 ![Mainsheet and Traveler](/assets/images/running-traveler.jpeg)
 
-I like playing with soft shackles and found uses for them on the jib sheets. Each sheet has a bowline tied in the end which is attached to the jib lead with a soft shackle. To attach the adjustable blocks to the jib leads I used ["soft line shackles"](https://l-36.com/soft_line_shackle_2.php). I added a large stopper loop to the block and used a long soft shackle to attach the block to the jib lead. This makes it easy to adjust position and I can shorten the shackles by double or triple looping them. (BTW here are the best directions for a [diamond knot](https://l-36.com/soft_shackle_howto.php).)
+I like playing with soft shackles and found uses for them on the jib sheets. Each sheet has a bowline tied in the end which is attached to the jib lead with a soft shackle. To attach the adjustable blocks to the jib leads I used ["soft line shackles"](https://l-36.com/soft_line_shackle_2.php). I added a large stopper loop to the block and used a long soft shackle to attach the block to the jib lead. This makes it easy to adjust position and I can shorten the shackles by double or triple looping them. (BTW here are my favorite directions for a [diamond knot](https://l-36.com/soft_shackle_howto.php).)
 
 ![Jib Leads](/assets/images/running-jib.jpeg)
 
