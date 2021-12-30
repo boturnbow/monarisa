@@ -13,4 +13,4 @@ Over the winter, I contacted someone on a Wharram Facebook group who was looking
 
 I said goodbye to *Mona Risa* with mixed emotions. It had been an emotional four plus years - from disappointment and near-despair to the highs of doing good work towards a dream life. But, selling to a fellow dreamer was some balm to my soul. And I felt like I had started a new relationship as well. Nick invited me to join him on the boat sometime - hopefully in the Caribbean.
 
-*Bon voyage.*
+*Bon voyage, Mona Risa.*
