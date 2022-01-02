@@ -6,7 +6,7 @@ permalink: /about/
 
 ## My Sailing Life .. So Far!
 
- * 1992 - College sailing class with Sunfish and small beach catamaran in Waco, Tx
+ * 1992 - College sailing class with Sunfish and small beach catamaran in Waco, TX
  * 2002 - 2003 - Crewed on an E-scow on Canyon Ferry Reservoir, MT
  * 2003 - 2008 - Member of True North Sail Club on Canyon Ferry
  * 2008 - 2015 - Owned a MacGregor 22 - *Blue Mona*
@@ -16,7 +16,8 @@ permalink: /about/
  * 2018 - Decided to rebuild the entire boat but didn't get finished before winter
  * 2018 - 2019 - Spent the winter in Ghana working on another Tiki 21
  * 2019 - 2020 - Spent the winter in Montana finishing my rebuild
- * 2020 - The first splash for [*Mona Risa*]({% post_url 2019-04-05-name %}) (I hope!)
+ * 2020 - The first (and only) splash for [*Mona Risa*]({% post_url 2019-04-05-name %})
+ * 2021 - Sold *Mona Risa*
 
 ## Links
 
