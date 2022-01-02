@@ -5,9 +5,9 @@ category: sailing
 tag: [ trailer, mast, motor ]
 ---
 
-## Assembly and Launching
-
 I trailered *Mona Risa* out to the ramp at the Jo Bonner campground on Canyon Ferry. It's a low traffic, shallow ramp with some shade. It's the same place that Rich and I assembled the original boat that I pulled back from Canada.
+
+## Assembly and Launching
 
 Sliding arms on the trailer are a great idea for assembly. Much easier than trying to assemble/disassemble the hulls in the water without tipping them over - which is almost impossible by yourself. Still, assembly on the trailer is a difficult project since things are up off the ground and there is lots of climbing up and down. It took **four hours** to put the boat together (and a little under four to take it apart later). I don't think that time would get much shorter with practice.
 
