@@ -11,6 +11,8 @@ And, frankly, I think I had known for a while that this wasn't the boat for me r
 
 Over the winter, I contacted someone on a Wharram Facebook group who was looking for a Tiki 26. At the time, I wasn't entirely sure I wanted to sell, but I wanted to consider it. Nick and I chatted some and he checked out the building blog. Satisfied with my work and unable to find a decent 26, Nick and I made a deal and he picked the boat up in early May. He trailered it back to South Carolina.
 
+![Handing off to Nick](/assets/images/nick.jpeg)
+
 I said goodbye to *Mona Risa* with mixed emotions. It had been an emotional four plus years - from disappointment and near-despair to the highs of doing good work towards a dream life. But, selling to a fellow dreamer was some balm to my soul. And I felt like I had started a new relationship as well. Nick invited me to join him on the boat sometime - hopefully in the Caribbean.
 
 *Bon voyage, Mona Risa.*
