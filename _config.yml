@@ -20,6 +20,10 @@ header_pages:
 
 theme: minima
 
+# for sitemap plugin: the base hostname & protocol for your site
+url: "https://monarisa.turnbows.org/"
+
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
