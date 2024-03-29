@@ -10,6 +10,7 @@ permalink: /about/
  * 2002 - 2003 - Crewed on an E-scow on Canyon Ferry Reservoir, MT
  * 2003 - 2008 - Member of True North Sail Club on Canyon Ferry
  * 2008 - 2015 - Owned a MacGregor 22 - *Blue Mona*
+ * 2010 - Built a sailing dinghy with my son, the [Super Chicken](https://superchicken.turnbows.org/)!
  * 2015 - Purchased a Tiki 21 in Eastern Canada
  * 2016 - Retrieved the new boat only to have it fall apart in the water
  * 2017 - Rebuilt some of the parts of the boats
