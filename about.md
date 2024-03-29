@@ -16,7 +16,7 @@ permalink: /about/
  * 2018 - Decided to rebuild the entire boat but didn't get finished before winter
  * 2018 - 2019 - Spent the winter in Ghana working on another Tiki 21
  * 2019 - 2020 - Spent the winter in Montana finishing my rebuild
- * 2020 - The first (and only) splash for [*Mona Risa*]({% post_url 2019-04-05-name %})
+ * 2020 - The first (and only) splash for Mona Risa
  * 2021 - Sold *Mona Risa*
 
 ## Links
@@ -28,5 +28,3 @@ The intent of this blog is to give back to the Wharram community. During my buil
 * [Little Cat](http://tiki21littlecat.blogspot.com)
 
 And the great community at [Wharram Builders and Friends](http://wharrambuilders.ning.com).
-
-And just for inspiration check out [Esperantos](https://esperantos.eu) - a self-designed and built catamaran as a platform for the arts!
